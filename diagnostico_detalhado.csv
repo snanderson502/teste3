@@ -1,0 +1,962 @@
+Empresa,Empresa Limpa,Categoria,Pergunta,Nota,Observações
+Acelera Metrô- Montechio,Montechio,1,A empresa possui controle de entrada e saída de caixa?,3,"Controle manual via BitBar/planilha; conciliações periódicas, porém retrabalho."
+Acelera Metrô- Montechio,Montechio,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,3,Uso de BitBar (POS) como sistema principal; integração financeira limitada; avaliando Saipos.
+Acelera Metrô- Montechio,Montechio,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,3,DRE gerado mensalmente; utilização parcial para tomada de decisão.
+Acelera Metrô- Montechio,Montechio,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,3,"CMV calculado, mas impactado por compras em grande lote e perdas; precisão pode melhorar."
+Acelera Metrô- Montechio,Montechio,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,4,Fichas técnicas existentes e padronizadas para a maioria dos produtos; revisão periódica.
+Acelera Metrô- Montechio,Montechio,6,Tem controle de estoque com inventário periódico?,3,Inventário periódico; controle em planilhas; ocorrência de vencimentos identificada.
+Acelera Metrô- Montechio,Montechio,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",3,"Acompanha indicadores básicos (faturamento, CMV, avaliações), porém sem painel consolidado."
+Acelera Metrô- Montechio,Montechio,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",4,Precificação estruturada em 7 categorias de pizza considerando custos e posicionamento.
+Acelera Metrô- Montechio,Montechio,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,4,"Dívidas/financiamentos sob controle, pagamentos em dia."
+Acelera Metrô- Montechio,Montechio,11,A empresa conhece com clareza seu público-alvo/persona?,4,Cliente-alvo definido como público que valoriza qualidade gourmet e delivery premium.
+Acelera Metrô- Montechio,Montechio,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,4,Posicionamento claro: pizzaria gourmet delivery de alta qualidade (melhor de Porto Alegre).
+Acelera Metrô- Montechio,Montechio,13,Conhece e analisa periodicamente seus principais concorrentes?,3,Monitora concorrentes informalmente; sem análise estruturada.
+Acelera Metrô- Montechio,Montechio,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,4,"Participa de eventos (competições de pizza, talk-show com influencer)."
+Acelera Metrô- Montechio,Montechio,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",4,"História/branding forte (Julieta→Montecchio), utiliza storytelling em comunicações."
+Acelera Metrô- Montechio,Montechio,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",4,"Materiais institucionais (cardápio, embalagens, site) profissionais e alinhados à marca."
+Acelera Metrô- Montechio,Montechio,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",3,"Avaliação de retorno feita com métricas básicas e feedback, sem cálculo detalhado de ROI."
+Acelera Metrô- Montechio,Montechio,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,4,"Perfis ativos no Instagram, Facebook e GMB; atualizados com frequência."
+Acelera Metrô- Montechio,Montechio,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",3,"Conteúdo produzido regularmente pela agência, mas frequência ainda em ajuste."
+Acelera Metrô- Montechio,Montechio,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,4,Agência M&E responsável por marketing digital e tráfego pago.
+Acelera Metrô- Montechio,Montechio,21,Tem um calendário editorial ou planejamento de conteúdo?,3,Calendário editorial básico; oportunidades para detalhar pautas e datas.
+Acelera Metrô- Montechio,Montechio,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,3,Adapta tendências esporadicamente; depende de agência.
+Acelera Metrô- Montechio,Montechio,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",4,Interação frequente em comentários/DM; Rodrigo responde e cria relacionamento.
+Acelera Metrô- Montechio,Montechio,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,4,Agência utiliza Canva/Adobe/CapCut; equipe interna usa recursos básicos.
+Acelera Metrô- Montechio,Montechio,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,3,Investimento em tráfego pago em fase de otimização; campanhas rodando.
+Acelera Metrô- Montechio,Montechio,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,4,Parcerias com influenciadores locais (Ico Thomas) em andamento.
+Acelera Metrô- Montechio,Montechio,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",4,Links de cardápio e pedidos na bio e site próprio; acesso facilitado.
+Acelera Metrô- Montechio,Montechio,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",4,"Canais digitais ativos: iFood, site próprio, WhatsApp Business."
+Acelera Metrô- Montechio,Montechio,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",3,Acompanha métricas de redes via relatórios da agência; melhorias possíveis.
+Acelera Metrô- Montechio,Montechio,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,2,Uso incipiente de IA; testes pontuais via agência para ideias de conteúdo.
+Acelera Metrô- Montechio,Montechio,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",2,ChatGPT/Gemini usados ocasionalmente para headlines e descrições.
+Acelera Metrô- Montechio,Montechio,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",2,Geração de imagens IA não utilizada de forma consistente.
+Acelera Metrô- Montechio,Montechio,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,Não utiliza chatbots/assistentes virtuais no atendimento.
+Acelera Metrô- Montechio,Montechio,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,
+Acelera Metrô- Montechio,Montechio,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,3,Prospecção ativa limitada; foco principal em inbound via delivery apps e redes sociais.
+Acelera Metrô- Montechio,Montechio,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,4,"Base de clientes organizada no BitBar, com dados de +5 mil contatos."
+Acelera Metrô- Montechio,Montechio,40,Realiza ações estruturadas de fidelização ou recompra?,4,Programa de fidelidade integrado ao POS; ações de recompra.
+Acelera Metrô- Montechio,Montechio,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",4,Scripts de atendimento padronizados; processo de vendas definido.
+Acelera Metrô- Montechio,Montechio,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,3,Promoções sazonais/eventos temáticos feitos pontualmente; sem calendário anual.
+Acelera Metrô- Montechio,Montechio,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",4,Parcerias estratégicas com influenciadores e empresas locais.
+Acelera Metrô- Montechio,Montechio,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,4,Funções formalizadas e manuais de operação detalhados.
+Acelera Metrô- Montechio,Montechio,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,3,Treinamentos on-the-job; inexistência de plano anual estruturado.
+Acelera Metrô- Montechio,Montechio,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,2,Remuneração variável limitada ou inexistente.
+Acelera Metrô- Montechio,Montechio,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,3,"Reuniões operacionais e feedbacks ocorrem, mas sem agenda formal."
+Acelera Metrô- Montechio,Montechio,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,2,Não realiza pesquisa de clima de forma estruturada.
+Acelera Metrô- Montechio,Montechio,49,Possui plano de carreira estruturado e transparente para os colaboradores?,2,preparam alguns funcionários para novos cargos
+Acelera Metrô- Montechio,Montechio,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",3,Cultura de qualidade/confiança comunicada de forma informal.
+Acelera Metrô- Montechio,Montechio,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",5,"MBP, POPs e auditorias trimestrais por consultora externa."
+Acelera Metrô- Montechio,Montechio,53,Tem controle e ações para redução de perdas e desperdícios?,3,"Monitoramento e ações de redução de perdas em curso, especialmente insumos perecíveis."
+Acelera Metrô- Montechio,Montechio,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",4,"Layout otimizado ao fluxo, apesar de limitações de espaço."
+Acelera Metrô- Montechio,Montechio,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",3,"BitBar gerencia pedidos; integração produção parcial, sem automação completa."
+Acelera Metrô- Montechio,Montechio,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",2,Compras emergenciais ainda ocorrem quando preços variam ou falta produto.
+Acelera Metrô- Montechio,Montechio,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,4,Rotinas diárias e checklists registrados em manuais.
+Acelera Metrô- Montechio,Montechio,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,3,Manutenção preventiva sem plano formal; correções realizadas quando necessário.
+Bain Marie -METRÔ,Bain Marie,1,A empresa possui controle de entrada e saída de caixa?,2,
+Bain Marie -METRÔ,Bain Marie,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,4,"faz os controles financeiros por planilha, utiliza pouco o ERP principalmente pelo controle do buffet do sttrip center teria que cadastrar muitos produtos "
+Bain Marie -METRÔ,Bain Marie,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,4,tem os indicadores todos medidos DRE bem estruturado mas nao atua nos indicadores 
+Bain Marie -METRÔ,Bain Marie,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,3,"Calcula o cmv mensalmente, considerando as compras e não ficha tecnica.  "
+Bain Marie -METRÔ,Bain Marie,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,1,não tem ficha técnica hoje 
+Bain Marie -METRÔ,Bain Marie,6,Tem controle de estoque com inventário periódico?,1,
+Bain Marie -METRÔ,Bain Marie,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",4,"Utiliza para algumas tomadas de decisao, entendi que falta ações mais pontuais atuando pelos indicadores. "
+Bain Marie -METRÔ,Bain Marie,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",4,"Esta sempre atenta aos custos e aos preços praticados pelo mercado, principalmente ifood e concorrencia do shopping. "
+Bain Marie -METRÔ,Bain Marie,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,4,"Tem diversos financiamentos ativos e todos planilhados, no momento estão todos controlados e entendi que o restaurante esta cok resultado negativo e esta usando um vaçlor que tirou do ultimos emprestimo para cobrir as contas.  "
+Bain Marie -METRÔ,Bain Marie,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,Teknisa
+Bain Marie -METRÔ,Bain Marie,11,A empresa conhece com clareza seu público-alvo/persona?,2,"""definiu e matei"" resposta da empreendedora, nunca fez um trabalho estruturado de persona. "
+Bain Marie -METRÔ,Bain Marie,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,3,"Tem um posicionamento definido com a frase ""comida de verdade"", mas explora pouco.  "
+Bain Marie -METRÔ,Bain Marie,13,Conhece e analisa periodicamente seus principais concorrentes?,3,Esta atenta principalmente ao ifood e aos vizinhos no shopping. 
+Bain Marie -METRÔ,Bain Marie,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,1,
+Bain Marie -METRÔ,Bain Marie,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",1,"o restaurante tem 25 anos de historia, comunicam principalmente o tempo, e pouco a historia. "
+Bain Marie -METRÔ,Bain Marie,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",2,
+Bain Marie -METRÔ,Bain Marie,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",1,Nenhuma ação ativa no momento.
+Bain Marie -METRÔ,Bain Marie,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,1,"Tem um perfil para cada loja, o mais atualizado é da loja João Walling mas ainda assim sem frequencia de postagens. "
+Bain Marie -METRÔ,Bain Marie,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",1,
+Bain Marie -METRÔ,Bain Marie,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,1,
+Bain Marie -METRÔ,Bain Marie,21,Tem um calendário editorial ou planejamento de conteúdo?,1,
+Bain Marie -METRÔ,Bain Marie,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,1,
+Bain Marie -METRÔ,Bain Marie,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",1,
+Bain Marie -METRÔ,Bain Marie,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,2,A empreendedora utiliza canva e capcut 
+Bain Marie -METRÔ,Bain Marie,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,1,
+Bain Marie -METRÔ,Bain Marie,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,3,Trabalhou com 1 em janeiro e não viu retorno do investimento. 
+Bain Marie -METRÔ,Bain Marie,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",3,Pode melhorar a apresentação do link. 
+Bain Marie -METRÔ,Bain Marie,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",4,"Ifood principalmente, venda através desse canal é muito expressiva, especialmente na loja da João Walling. "
+Bain Marie -METRÔ,Bain Marie,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",1,
+Bain Marie -METRÔ,Bain Marie,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,Instagram e google 
+Bain Marie -METRÔ,Bain Marie,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,capcut e canva 
+Bain Marie -METRÔ,Bain Marie,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,3,Fez o curso e estava realizando o pagamento da ferramenta Adapta 
+Bain Marie -METRÔ,Bain Marie,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",3,Utiliza esporadicamente para conteudos nas redes sociais e para gerar imagens  
+Bain Marie -METRÔ,Bain Marie,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",3,
+Bain Marie -METRÔ,Bain Marie,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,3,"Já utilizou mais as ferramentas, para gerar imagens como dia das mães do ano passado, mas tem realizado poucos conteudos. "
+Bain Marie -METRÔ,Bain Marie,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,
+Bain Marie -METRÔ,Bain Marie,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),0,Adapta e chatgpt 
+Bain Marie -METRÔ,Bain Marie,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,1,
+Bain Marie -METRÔ,Bain Marie,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,1,
+Bain Marie -METRÔ,Bain Marie,40,Realiza ações estruturadas de fidelização ou recompra?,1,
+Bain Marie -METRÔ,Bain Marie,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",2,
+Bain Marie -METRÔ,Bain Marie,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,3,"Apenas no Natal vendeu algumas ceias, mas entendi que foi por falta de divulgação. "
+Bain Marie -METRÔ,Bain Marie,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",1,analisar essa pergunta 
+Bain Marie -METRÔ,Bain Marie,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,3,Tem a descrição das funções realizada mas no dia a dia utilizam pouco o documento formalizado.  
+Bain Marie -METRÔ,Bain Marie,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,2,
+Bain Marie -METRÔ,Bain Marie,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,1,
+Bain Marie -METRÔ,Bain Marie,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,2,"Realiza reuniões principalmente para ""apagar incendio"" com lideranças. "
+Bain Marie -METRÔ,Bain Marie,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,1,
+Bain Marie -METRÔ,Bain Marie,49,Possui plano de carreira estruturado e transparente para os colaboradores?,2,Não há nada formalizado. 
+Bain Marie -METRÔ,Bain Marie,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",2,Utiliza o manual do colaborador principalmente para novos contratados.  
+Bain Marie -METRÔ,Bain Marie,51,Qual o número total de colaboradores?,0,27 funcionários sugestão:calcular rotatividade 
+Bain Marie -METRÔ,Bain Marie,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",2,"Tem desenvolvido o manual, mas é pouco visitado, fala da empreendedora ""esta guardado em algum lugar"""
+Bain Marie -METRÔ,Bain Marie,53,Tem controle e ações para redução de perdas e desperdícios?,2,"Hoje não tem controle formal, percebi prestando atenção em pequenos detalhes como por exemplo refeições dos funcionários.  "
+Bain Marie -METRÔ,Bain Marie,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",3,"Principalmente a cozinha da João Walling que é grande mexeram no layout recentemente para melhorar a produtiviodade,  propria equipe quem realizou as melhorias. "
+Bain Marie -METRÔ,Bain Marie,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",3,
+Bain Marie -METRÔ,Bain Marie,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",4,"São poucas compras emergencias que acontecem, geralmente o pai da empreendedora é quem faz essas compras, mas não são necessárias é mais para controle delee porque gosta de fazer compras nos atacados "
+Bain Marie -METRÔ,Bain Marie,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,2,"Existe uma rotina definida, mas entendi que precisa melhorar.  "
+Bain Marie -METRÔ,Bain Marie,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,3,organização de papeis 
+Bellona,Bellona,1,A empresa possui controle de entrada e saída de caixa?,1,"Não realiza nenhum registro, ficamos de fazer uma planilha de excel principalmnete para controle de fonecedores. "
+Bellona,Bellona,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,1,"Utiliza o sistema para atendimento, não utiliza na gestão do restaurante. "
+Bellona,Bellona,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,3,"Elabora o DRE com o consultor com estimativas de valores, sem informções precisas. "
+Bellona,Bellona,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,2,"Tem as fichas técnicas dos produtos, mas entendi que preci ser atualizado "
+Bellona,Bellona,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,3,ingrediente custos e etc 
+Bellona,Bellona,6,Tem controle de estoque com inventário periódico?,1,"Realiza suas estimativas com base na sua vivencia na operação, nã há controle formal  "
+Bellona,Bellona,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",3,"Acompanha alguns indicadores principalmente de vendas que consegui ver no sistema, como faturamento ticket medio. O resultado da operação é uma estimativa. "
+Bellona,Bellona,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",3,Utiliza planilhas para realizar formação do preço. 
+Bellona,Bellona,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,3,"Divida baixa, apenas um emprestimos com parcela de aproximadamente 1600,00"
+Bellona,Bellona,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,glow
+Bellona,Bellona,11,A empresa conhece com clareza seu público-alvo/persona?,4,"não tem a persona descrita mas acertou através da analise da consultoria e todos os seus produtos foram voltados para essa ""persona cliente cidade baixa"""
+Bellona,Bellona,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,3,ainda precisamos descrever 
+Bellona,Bellona,13,Conhece e analisa periodicamente seus principais concorrentes?,2,"3 concorrentes direto, inclusive propos um alinhamento de preços entre todos através de uma reuniao e esse combinado foi formalizado entre todos "
+Bellona,Bellona,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,1,
+Bellona,Bellona,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",1,"não tem, mas é legal de conta "
+Bellona,Bellona,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",4,"o cardápio é bem elaborado, intuitivo e atendi ao publico no momento. As embalagens atendi ao seu posicionamento de baixo preço. "
+Bellona,Bellona,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",1,
+Bellona,Bellona,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,2,frequencia muito baixa de postagens e sem estratégia 
+Bellona,Bellona,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",2,"Realiza ""quando da"""
+Bellona,Bellona,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,1,"a esposa do empreendedor faz os conteudos quando ""da tempo"". "
+Bellona,Bellona,21,Tem um calendário editorial ou planejamento de conteúdo?,1,
+Bellona,Bellona,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,1,
+Bellona,Bellona,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",1,
+Bellona,Bellona,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,1,Utiliza ferramentas de IA para gerar imagens 
+Bellona,Bellona,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,1,
+Bellona,Bellona,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,1,
+Bellona,Bellona,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",1,
+Bellona,Bellona,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",3,ifood
+Bellona,Bellona,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",1,
+Bellona,Bellona,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,"só instagram, facebook e google"
+Bellona,Bellona,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,não utiliza
+Bellona,Bellona,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,1,
+Bellona,Bellona,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",1,chatgpt a esposa utiliza
+Bellona,Bellona,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",1,
+Bellona,Bellona,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,3,Utiliza para gerar imagens para as redes sociais 
+Bellona,Bellona,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,
+Bellona,Bellona,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),0,
+Bellona,Bellona,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,1,
+Bellona,Bellona,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,1,
+Bellona,Bellona,40,Realiza ações estruturadas de fidelização ou recompra?,1,
+Bellona,Bellona,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",1,autoatendimento
+Bellona,Bellona,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,1,
+Bellona,Bellona,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",1,
+Bellona,Bellona,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,2,"já fez definição de cargos mas nem sabe onde esta, na pratica a pessoa tendo disponibilidade para trabalhar a noite ele contrata. "
+Bellona,Bellona,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,2,"Treinamentos mais voltados para o operacional, principalmente em novas contratações "
+Bellona,Bellona,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,3,"tem remuneração variável implantado por meta atingida e atrelou o pagamento a comportamento exemplo: não atrasar, faltas e etc "
+Bellona,Bellona,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,1,não realiza reuniões inclusive sugeri principalmente para o acompanhamento da meta
+Bellona,Bellona,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,1,
+Bellona,Bellona,49,Possui plano de carreira estruturado e transparente para os colaboradores?,1,
+Bellona,Bellona,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",1,"não faz mais sentido nesse momento, pois mudou tudo,  esta descrito em algum lugar, mas era ao modelo de negocio anterior que ficava em frente a redenção a sorveteria  "
+Bellona,Bellona,51,Qual o número total de colaboradores?,0,9 pessoas no time e  esta com a rotatividade muito alta 
+Bellona,Bellona,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",2,Empreendedor relata que existe mas que precisa atualizar.  
+Bellona,Bellona,53,Tem controle e ações para redução de perdas e desperdícios?,1,Empreendedor entendi que tem pouca perda que não é necessario o controle rigoroso. 
+Bellona,Bellona,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",3,Estruturou o novo layout recentemente. 
+Bellona,Bellona,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",3,
+Bellona,Bellona,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",4,"Pouquissimas vezes acontece compras emergencias, empreendedor tem uma rotina pre estabelecida de compras e tem muito experiencia como comprador em seus trabalhos anteriores. "
+Bellona,Bellona,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,3,Existe uma rotina pré estabelecida para dar agilidade no fechamento do restaurante. 
+Bellona,Bellona,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,3,"Realiza manutenções preventivas, mas os registros estão na ""sua cabeça"" "
+Con Amor,Con Amor,1,A empresa possui controle de entrada e saída de caixa?,3,"Depois do workshop esta fazendo contoles mais simplificados, antes fazia planilhas muito elaboradas e acabou não lançando mais as informações.  "
+Con Amor,Con Amor,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,2,"Utiliza algumas planilhas para controles, não tem sistema operacional. "
+Con Amor,Con Amor,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,2,Não analisa os resultados já faz bastante tempo. 
+Con Amor,Con Amor,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,1,"Não apura o CMV, perdeu o controle faz algum tempo, hoje faz através do feeling mesmo. "
+Con Amor,Con Amor,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,1,"Não usa ficha técnica, hoje faz de cabeça os custos, pensando quanto vai gastar no mercado. "
+Con Amor,Con Amor,6,Tem controle de estoque com inventário periódico?,3,"faz um controle visual, e anota no bloco de notas listas de compras. "
+Con Amor,Con Amor,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",1,
+Con Amor,Con Amor,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",1,"tem noção de quanto vai gastar nos itens, e faz tudo de cabeça "
+Con Amor,Con Amor,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,0,Sem dívidas. 
+Con Amor,Con Amor,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,Só utiliza excel para alguns controles financeiros. 
+Con Amor,Con Amor,11,A empresa conhece com clareza seu público-alvo/persona?,3,"Juliana defini publico alvo por tipo de serviço, para coffee break corporativo, para eventos pessoa física, para marmitas pessoa física que requer cuidados com alimentação. (acima de 40 anos) "
+Con Amor,Con Amor,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,2,Não esta definido é justamente o que precisa ser trabalhado considerando os serviços diferentes que ela entrega. 
+Con Amor,Con Amor,13,Conhece e analisa periodicamente seus principais concorrentes?,4,"Monitora através dos clientes, que emviam os orçamentos pela relação de confiança estabelecida. Mostrou as propostas de coffee de vários concorrentes.  "
+Con Amor,Con Amor,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,2,"Depende das agendas, esta atenta ao que esta contecendo e participa quando consegui definir agenda, por isso procurou o Sebrae para estar mais próximo do que esta contecendo no setor. "
+Con Amor,Con Amor,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",2,"Não tem uma historia estruturada na gastronomia, não conta muito sobre. Esta elaborando isso com a nova pessoa que vai cuidar do seu marketing. Ficou com o tema de casa de elaborar junto com o chatgpt."
+Con Amor,Con Amor,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",1,"Elabora material de acordo com cliente, não tem uma material estruturado de apresentação.  "
+Con Amor,Con Amor,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",1,Hoje não faz nenhuma ação. 
+Con Amor,Con Amor,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,3,"Não é estruturado, mas mantém seu perfil do instagram atualizado, é seu principal material de apresentaçã no momento.  "
+Con Amor,Con Amor,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",2,"No momento nada de forma estrutura, contratou uma pessoa para apoia-la nas produções. "
+Con Amor,Con Amor,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,1,
+Con Amor,Con Amor,21,Tem um calendário editorial ou planejamento de conteúdo?,1,
+Con Amor,Con Amor,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,1,
+Con Amor,Con Amor,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",1,
+Con Amor,Con Amor,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,1,
+Con Amor,Con Amor,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,1,
+Con Amor,Con Amor,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,1,
+Con Amor,Con Amor,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",2,
+Con Amor,Con Amor,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",2,"Sugeri utilizar o WhatsApp Business na reunião, ficou de tema de casa."
+Con Amor,Con Amor,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",1,Na reunião mostrei como olhar os insights do Instagram. 
+Con Amor,Con Amor,30,Quais perfis ativos a empresa possui? (Listar plataformas),1,"Somente Instagram, ficou de tema de casa fazer o google meu negócio"
+Con Amor,Con Amor,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,Hoje não utiliza
+Con Amor,Con Amor,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,1,
+Con Amor,Con Amor,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",1,
+Con Amor,Con Amor,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",1,
+Con Amor,Con Amor,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,
+Con Amor,Con Amor,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,
+Con Amor,Con Amor,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),1,
+Con Amor,Con Amor,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,1,
+Con Amor,Con Amor,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,1,Tem em planilha uma estrutura simples com lista de clientes e nos contatos do Whatsapp. 
+Con Amor,Con Amor,40,Realiza ações estruturadas de fidelização ou recompra?,1,"Tem uma ação de fidelização como forma de agradecimento, no inicio de ano presenteando quem a contratou ao longo do ano anterior.  "
+Con Amor,Con Amor,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",1,O material padrão utilizado é o seu orçamento. 
+Con Amor,Con Amor,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,3,"faz ações sazonais principalmente com datas importantes, Páscoa, Dias mães e Natal, realiza a entrega da refeição das famílias nesses dias importantes. "
+Con Amor,Con Amor,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",1,
+Con Amor,Con Amor,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,1,"Tem uma pessoa que a auxilia na cozinha e é por demanda, chama quando há necessidade. "
+Con Amor,Con Amor,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,1,
+Con Amor,Con Amor,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,1,
+Con Amor,Con Amor,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,1,
+Con Amor,Con Amor,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,0,
+Con Amor,Con Amor,49,Possui plano de carreira estruturado e transparente para os colaboradores?,1,
+Con Amor,Con Amor,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",1,
+Con Amor,Con Amor,51,Qual o número total de colaboradores?,0,"1 freelance, contratação fixas nas segundas e o restante dos dias sob demanda. "
+Con Amor,Con Amor,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",1,
+Con Amor,Con Amor,53,Tem controle e ações para redução de perdas e desperdícios?,0,"Não tem perda, pois trabalha sob demanda. "
+Con Amor,Con Amor,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",1,
+Con Amor,Con Amor,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",1,
+Con Amor,Con Amor,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",3,
+Con Amor,Con Amor,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,1,
+Con Amor,Con Amor,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,1,
+Cor Café y Brasa,Cor Café y Brasa,1,A empresa possui controle de entrada e saída de caixa?,1,"hoje não utiliza nenhum sistema ou planilha, o controle é feito de forma visual, gostou da ideia de controlar pelo DDA não havia pensado."
+Cor Café y Brasa,Cor Café y Brasa,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,1,"Não utiliza o sistema para gestão apenas para para controle de pedidos, hoje não há um controle de gestão nem mesmo em planilhas. "
+Cor Café y Brasa,Cor Café y Brasa,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,3,"Realiza o DRE através de planilha, relata que faz algum tempo que não monta e não analisa. "
+Cor Café y Brasa,Cor Café y Brasa,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,3,"Não tem certeza do seu cmv, acredita que de forma geral está em  entre 31 e 38%. Depende muito dos pratos.  "
+Cor Café y Brasa,Cor Café y Brasa,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,3,Elaborou planilhas com a consultoria e sempre revisita as fichas tecnicas.  
+Cor Café y Brasa,Cor Café y Brasa,6,Tem controle de estoque com inventário periódico?,2,controle de estopque visual conta e planilha 
+Cor Café y Brasa,Cor Café y Brasa,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",2,"Acompanha indicador como tícket médio e resultado financeiro final do mês, principalmente dados financeiros são dados imprecisos, em função de não haver controles. "
+Cor Café y Brasa,Cor Café y Brasa,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",3,"Não há uma estratégia estruturada de precificação, usa as planilhas da consultoria de ficha técnica e esta sempre atento a concorrencia. "
+Cor Café y Brasa,Cor Café y Brasa,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,2,"Hoje tem um empréstimo de 100mil, realiza o pagamento da parcela de R$4.600 por mes reparcelo os impostos, e acabou não honrando com os pagamentos hoje não esta pagando os impostos, ""vou deixar estourar esse cnpj para ver depois uma estratégia"". "
+Cor Café y Brasa,Cor Café y Brasa,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,"Esta estudando a Totvs chef, hoje utiliza o pdv legal quer abrir outro cnpj para já ir para o sistema novo.   "
+Cor Café y Brasa,Cor Café y Brasa,11,A empresa conhece com clareza seu público-alvo/persona?,3,"hoje sua persona são ""mães, famílias com criança"" entendi que precisa também de outra persona, pois a atual precisa que todas as conidções estejam favoráveis para ir ao Cor. "
+Cor Café y Brasa,Cor Café y Brasa,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,3,"Entendi que precisa desenvolver para comunicar melhor e ser lembrado principalmente quando ""pensar em carne/Parrilla e pensar no Cor"""
+Cor Café y Brasa,Cor Café y Brasa,13,Conhece e analisa periodicamente seus principais concorrentes?,3,O empreendedor relatou todos os seus concorrentes e frequenta além dos concorrentes também outros locais para se inspiarar além de acompanhar através das redes sociais.  
+Cor Café y Brasa,Cor Café y Brasa,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,3,Passou a participar agora mais próximo do Sebrae se inserindo em 2 programas o polo e mais o de turismo 
+Cor Café y Brasa,Cor Café y Brasa,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",1,"Relatou a historia da compra do restaurante junto com suas irmas, mas não esta descrito e não comunicam. "
+Cor Café y Brasa,Cor Café y Brasa,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",2,"O cardápio hoje esta sendo melhorado, apresentou como quer fazer, que é um de vinhos que esta muito bonito, mas o atual esta ""bem ruim"" precisa melhorar bastante inclusive foi uma pauta levantda pela Fran.  "
+Cor Café y Brasa,Cor Café y Brasa,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",3,"Já teve agêncfego pago com investimento consideravel e eles apresentavam as métricas mas deconstinuou o trabalho em janeiro de 2025 , hoje analisa principalmente os resultados dos influencers ""brincando por ai"" traz retornos imediatos, casa cheia após suas publicações. "
+Cor Café y Brasa,Cor Café y Brasa,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,3,"A frequencia de postagens esta baixa no perfil do instagram, e no google meu negócio precisa incentivar seu cliente a fazer avaliações para melhorar a nota.  "
+Cor Café y Brasa,Cor Café y Brasa,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",3,o empreendedor entendi que sua produção precisa ser mais constante.  
+Cor Café y Brasa,Cor Café y Brasa,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,1,hoje não há uma pessoa específica realizando os conteúdos. 
+Cor Café y Brasa,Cor Café y Brasa,21,Tem um calendário editorial ou planejamento de conteúdo?,2,"não há uma organização planejada, analisando as postagens atuais houve uma em 05/04 e depois só em  18/04. "
+Cor Café y Brasa,Cor Café y Brasa,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,2,
+Cor Café y Brasa,Cor Café y Brasa,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",1,"precisa melhorar o google principalmente parou de responder as mensagens, quer fazer um trabalho melhor para melhorar a nota. "
+Cor Café y Brasa,Cor Café y Brasa,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,3,Muitas vezes faz as edições no proprio instagram. 
+Cor Café y Brasa,Cor Café y Brasa,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,4,"já fez, mas  não viu resultado x investimento e parou o tráfego em janeiro de 25 "
+Cor Café y Brasa,Cor Café y Brasa,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,4,"sim foi a estratégia mais impactante no resultado do restaurante até o momento a parceria com ""brincando por ai"".  "
+Cor Café y Brasa,Cor Café y Brasa,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",4,"Sim, através do linktree, mas pode melhorar principalmente cardápio e whatsApp. "
+Cor Café y Brasa,Cor Café y Brasa,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",1,Esta presente no ifood e as reservas entram através do instagram link do whatsapp. 
+Cor Café y Brasa,Cor Café y Brasa,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",3,acompanha os Insights
+Cor Café y Brasa,Cor Café y Brasa,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,Google e instagram 
+Cor Café y Brasa,Cor Café y Brasa,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,Utiliza capcut e reels 
+Cor Café y Brasa,Cor Café y Brasa,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,1,
+Cor Café y Brasa,Cor Café y Brasa,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",1,"Não utiliza nenhuma ferramneta, fiz baixar o aplicativo na hora.  "
+Cor Café y Brasa,Cor Café y Brasa,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",1,
+Cor Café y Brasa,Cor Café y Brasa,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,
+Cor Café y Brasa,Cor Café y Brasa,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,
+Cor Café y Brasa,Cor Café y Brasa,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),1,
+Cor Café y Brasa,Cor Café y Brasa,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,1,"Não existe uma estratégia ativa, hoje sua principais ações comerciais é através do instagram com parcerias de influencers. "
+Cor Café y Brasa,Cor Café y Brasa,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,1,"não tem, quer fazer já no novo sistema "
+Cor Café y Brasa,Cor Café y Brasa,40,Realiza ações estruturadas de fidelização ou recompra?,1,"não tem, quer fazer já no novo sistema "
+Cor Café y Brasa,Cor Café y Brasa,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",1,"Não, inclusive acredita que seja o problema em função de dobrar o time com freelancers nos finais de semana. "
+Cor Café y Brasa,Cor Café y Brasa,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,3,"Exemplo feriadão de páscoa planejou uma estratégia para cada dia, com descontos principalmente nas bedidas. "
+Cor Café y Brasa,Cor Café y Brasa,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",1,
+Cor Café y Brasa,Cor Café y Brasa,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,3,"Tem as funções principais definidas, mas não é um documento que utiliza com frequencia. Mais de 50% do seu time é freelance. "
+Cor Café y Brasa,Cor Café y Brasa,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,3,Os treinamentos estão mais voltados a produto.  
+Cor Café y Brasa,Cor Café y Brasa,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,4,"Existe a caixinha que é distribuida igualmente ao time, em função disso o time esta atento as metas principalmente nos finais de semana, no mês anterior receberam 15 mil para realizar a divisão, o empreendedor entendi que isso é um diferencial para manter o time. "
+Cor Café y Brasa,Cor Café y Brasa,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,3,Realiza algumas reuniões mas não com pautas definidas e nem com frequencia definida. 
+Cor Café y Brasa,Cor Café y Brasa,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,1,
+Cor Café y Brasa,Cor Café y Brasa,49,Possui plano de carreira estruturado e transparente para os colaboradores?,1,
+Cor Café y Brasa,Cor Café y Brasa,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",1,
+Cor Café y Brasa,Cor Café y Brasa,51,Qual o número total de colaboradores?,0,"6 fixos e 15 ao todo nos finais de semana, nenhum como clt.  "
+Cor Café y Brasa,Cor Café y Brasa,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",2,"Empreendedor entendi que precisa revisitar esses doucmentos, pois estão desatualizados. "
+Cor Café y Brasa,Cor Café y Brasa,53,Tem controle e ações para redução de perdas e desperdícios?,0,"Hoje nãoi tem controle, não mede a perda, e acontece principalmente na carne, se passa do ponto e etc.  "
+Cor Café y Brasa,Cor Café y Brasa,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",2,"Já fez consultoria de processos na cozinha, mas entendi que hoje não seguem tanto ""a risca"", a ""consultoria orientou a minha cozinha, mas acho que não seguem"". "
+Cor Café y Brasa,Cor Café y Brasa,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",3,hoje o pedido imprimi no bar e na cozinha.  
+Cor Café y Brasa,Cor Café y Brasa,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",4,"pouca frequencia hoje as compras são realizadas pelo ""braço direito e pelo proprietário."
+Cor Café y Brasa,Cor Café y Brasa,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,3,"Tem uma rotina pré definida mas, não tem registro da planilha "
+Cor Café y Brasa,Cor Café y Brasa,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,2,"não tem registrado, hoje o  controle é pessoal de cabeça.  "
+Devolutiva choperia essencial,choperia essencial,1,A empresa possui controle de entrada e saída de caixa?,4,"Sabe tudo o que compra, tudo o que precisa ter no caixa para segurança. Sabe o que vende em cartão, em dinheiro e etc. Um bom fluxo de caixa"
+Devolutiva choperia essencial,choperia essencial,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,3,Apenas controle de vendas e controle fiscal
+Devolutiva choperia essencial,choperia essencial,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,1,Não faz o DRE - não sabe
+Devolutiva choperia essencial,choperia essencial,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,2,"Sabe de cabeça, informalmente. Tem quase certeza que de tudo"
+Devolutiva choperia essencial,choperia essencial,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,1,Tinha. Não tem mais. Precisa estabelecer uma boa equipe na cozinha para retomar com as fichas técnicas e demais trabalhos.
+Devolutiva choperia essencial,choperia essencial,6,Tem controle de estoque com inventário periódico?,2,"Ja teve. Não tem mais. Tudo no olhometro, papel e caneta"
+Devolutiva choperia essencial,choperia essencial,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",3,apenas ticket médio: 40 a 50 reais aproximadamente. Não sabe número médio de clientes dia (deve ter no sistema)
+Devolutiva choperia essencial,choperia essencial,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",2,"CMV (da cabeça), apresentação dos pratos, e qualidade. 1 vez por ano analisa os concorrentes, dá uma volta pelo certo. Mas no geral não iguala os preços, sabe o valor que seu produto tem"
+Devolutiva choperia essencial,choperia essencial,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,2,2 pronamp do covid - e 2 pronamp da enchente. Pagamentos controlados
+Devolutiva choperia essencial,choperia essencial,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,Cervantes - implementou em janeiro
+Devolutiva choperia essencial,choperia essencial,11,A empresa conhece com clareza seu público-alvo/persona?,4,"sabe o publico alvo - b e c - entre 30 e 50 anos. Não sabe muito o futuro, pois o centro está ficando mais residencial e menos comercial. Vai precisar mudar suas estratégias"
+Devolutiva choperia essencial,choperia essencial,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,2,"Sabe sua proposta, mas não comunica"
+Devolutiva choperia essencial,choperia essencial,13,Conhece e analisa periodicamente seus principais concorrentes?,2,"Sim, 1 vez ao ano anda pelo centro e analisa valores, pratos e etc. Mas não leva muito em consideração na sua precificação"
+Devolutiva choperia essencial,choperia essencial,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,2,"Antes da pandemia fazia mutios eventos, participava em parceria de outros. Mas após a pandemia, parou. Gostaria muito de voltar a fazer"
+Devolutiva choperia essencial,choperia essencial,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",2,"participou de alguns podcast pra falar sobre - santo cervejeiro, muito tempo atrás. Atualmente não tem divulgado seu restaurante. Mkt parado"
+Devolutiva choperia essencial,choperia essencial,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",2,"Não. Quer melhorar, mas precisa fixar equipe na cozinha para conseguir trazer mais clientes"
+Devolutiva choperia essencial,choperia essencial,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",2,"atualmente não avalia, pois não tem feito muito. Mas antigamente sempre avaliava"
+Devolutiva choperia essencial,choperia essencial,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,2,Tudo parado
+Devolutiva choperia essencial,choperia essencial,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",1,"Não, tudo parado"
+Devolutiva choperia essencial,choperia essencial,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,2,"Sim, sua esposa é ""responsável"" pelas redes sociais. Mas atualmente está parado"
+Devolutiva choperia essencial,choperia essencial,21,Tem um calendário editorial ou planejamento de conteúdo?,1,Não
+Devolutiva choperia essencial,choperia essencial,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,1,Não
+Devolutiva choperia essencial,choperia essencial,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",4,"No google sempre responde as avaliações. Sempre dá retorno no whatsap da empresa. Redes sociais paradas, sem interação"
+Devolutiva choperia essencial,choperia essencial,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,1,"Nada. Possuem o canva pago, que a esposa utilizava quando fazia o mkt"
+Devolutiva choperia essencial,choperia essencial,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,2,"Muito tempo atrás fazia. Atualmente não faz mais, não tem mais tempo"
+Devolutiva choperia essencial,choperia essencial,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,1,"Nunca chegou a trabalhar, mas tem vontade"
+Devolutiva choperia essencial,choperia essencial,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",2,"Apenas whatsapp. Como não possuem delivery, o contato é apenas para saber horário e cardápio"
+Devolutiva choperia essencial,choperia essencial,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",0,"Apenas whatsapp, mas não possuem delivery"
+Devolutiva choperia essencial,choperia essencial,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",3,"Atualmente não tem olhado, pois esta parado. Mas sempre acompanhou"
+Devolutiva choperia essencial,choperia essencial,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,https://www.instagram.com/choperiaessencial/
+Devolutiva choperia essencial,choperia essencial,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,canva - paga pra esposa que cuida do marketing
+Devolutiva choperia essencial,choperia essencial,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,1,"Não utiliza, acha um perigo. mas sabe que se for usado para o bem, possui um bom potencial"
+Devolutiva choperia essencial,choperia essencial,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",1,
+Devolutiva choperia essencial,choperia essencial,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",1,
+Devolutiva choperia essencial,choperia essencial,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,
+Devolutiva choperia essencial,choperia essencial,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,
+Devolutiva choperia essencial,choperia essencial,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),1,
+Devolutiva choperia essencial,choperia essencial,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,2,"Atualmente está preocupado em manter os antigos. Depois que organizara cozinha, vai ri atrás de novo"
+Devolutiva choperia essencial,choperia essencial,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,2,"Possui o contato de muitos clientes no celular, mas não atuliza atualmente"
+Devolutiva choperia essencial,choperia essencial,40,Realiza ações estruturadas de fidelização ou recompra?,1,Não
+Devolutiva choperia essencial,choperia essencial,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",3,"Passa orientações na contratação. Tem processos de venda específico, nada formalizado, mas tem. Está sempre conversando com os funcionários, principalmente os de entendimento. Possui um contato próximo com todos"
+Devolutiva choperia essencial,choperia essencial,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,1,"Sim, ja fez muitas promoções. Depois da enchente parou e ainda não retomou"
+Devolutiva choperia essencial,choperia essencial,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",3,"Parceiria com cooperativas de banco, cervejarias, empresas de bebidas e etc."
+Devolutiva choperia essencial,choperia essencial,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,2,"Informal, mas todos sabem o seu lugar e o que fazer. Funciona bem"
+Devolutiva choperia essencial,choperia essencial,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,1,Não tem visto necessidade. Apenas na cozinha que tem sido o problema. Está tentando firmar os funcionários para depois trabalhar com eles essa parte
+Devolutiva choperia essencial,choperia essencial,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,3,"Posuem variável, não soube explicar como é. Quer mudar"
+Devolutiva choperia essencial,choperia essencial,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,3,Reuniões individuais diárias. Sempre conversando com os funcionadios
+Devolutiva choperia essencial,choperia essencial,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,2,"Conversa diretamente com cada um, não realiza pesquisa de clima"
+Devolutiva choperia essencial,choperia essencial,49,Possui plano de carreira estruturado e transparente para os colaboradores?,2,"Alguns funcionários tem crescimento na empresa, mas nada estruturado de plano de carreira. Apenas merecimento e tempo mesmo"
+Devolutiva choperia essencial,choperia essencial,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",1,não
+Devolutiva choperia essencial,choperia essencial,51,Qual o número total de colaboradores?,0,"6 (3 cozinha + 3 salão).  Funcionários da cozinha são todos informais por enquanto, não assinou carteira de nenhum ainda. Esperando firmar"
+Devolutiva choperia essencial,choperia essencial,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",1,Não tem mais. Ja teve
+Devolutiva choperia essencial,choperia essencial,53,Tem controle e ações para redução de perdas e desperdícios?,3,"Antes tinha muito desperdicio, atualmente não tem mais. Melhorou na base da conversa e supervisão"
+Devolutiva choperia essencial,choperia essencial,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",4,"Apesar de pequena, funciona bem. Tem muita experiência nesse sentido."
+Devolutiva choperia essencial,choperia essencial,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",5,"Sim, possui sistema de pedidos, funciona muito bem"
+Devolutiva choperia essencial,choperia essencial,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",1,"Diárias, compra mta coisa no mercado, por ser fresco. Não ve como um problema essas compras emergenciais. Prefere comprar fresco no mercado publico mesmo"
+Devolutiva choperia essencial,choperia essencial,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,1,"Fazia, não faz mais. Vigilancia sanitária ordenou várias alterações. Estão ajustando"
+Devolutiva choperia essencial,choperia essencial,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,3,"SIm, sempre cuida dos equipamentos. Mas tudo informal, sem um cronograma específico."
+Devolutiva pizza napoletana,pizza napoletana,1,A empresa possui controle de entrada e saída de caixa?,3,"Possuem todos os controles em planilhas, feita pela sócia. Utilizam apenas sistema pdv"
+Devolutiva pizza napoletana,pizza napoletana,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,3,"Não possuem sistema, apenas pdv"
+Devolutiva pizza napoletana,pizza napoletana,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,4,"Sim, possuem, fizeram curso. Acompanham todos os meses, mas sentem dificuldade em interpretar os números. DRE EM OUTRA PLANILHA NA PASTA"
+Devolutiva pizza napoletana,pizza napoletana,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,5,
+Devolutiva pizza napoletana,pizza napoletana,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,5,"Sim, possuem todas as fichas, atualiza mensalmente (custos, etc)"
+Devolutiva pizza napoletana,pizza napoletana,6,Tem controle de estoque com inventário periódico?,4,"Sim, possuem controle de estoque semanal (inventário), mas em planilhas do excel"
+Devolutiva pizza napoletana,pizza napoletana,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",4,"não possuem ticket médio, não contam quantos clientes entram. Sabem apenas o fechamento das comandas, onde no geral mais de 1 pessoa usa a mesma"
+Devolutiva pizza napoletana,pizza napoletana,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",5,"SIm, todos os custos, concorrentes, taxas de cartões. tudinho"
+Devolutiva pizza napoletana,pizza napoletana,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,5,
+Devolutiva pizza napoletana,pizza napoletana,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,Tronsoft
+Devolutiva pizza napoletana,pizza napoletana,11,A empresa conhece com clareza seu público-alvo/persona?,4,Não possuem personas para trabalhar um mkt mais direcionado
+Devolutiva pizza napoletana,pizza napoletana,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,3,"Podem melhorar nessa parte. Precisam se posicionar melhor, mostrar mais os diferenciais"
+Devolutiva pizza napoletana,pizza napoletana,13,Conhece e analisa periodicamente seus principais concorrentes?,4,"Sim, informalmente analisam. Sempre que podem frequentam outros restaurantes, estão sempre a par das novidades e etc"
+Devolutiva pizza napoletana,pizza napoletana,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,1,Não
+Devolutiva pizza napoletana,pizza napoletana,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",2,"Trabalharam no inicio da empresa, onde criaram videos contando a história de como a empresa surgiu. POdem explorar mais"
+Devolutiva pizza napoletana,pizza napoletana,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",4,
+Devolutiva pizza napoletana,pizza napoletana,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",4,"Sim, geralmente ocorre crescimento de seguidores, engajamento e etc, mas não ocorre retorno financeiro. Possuem um amigo que ajuda no trafego pago, mas pode ser melhor"
+Devolutiva pizza napoletana,pizza napoletana,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,4,Precisam direcionar melhor para o publico alvo. Persona!
+Devolutiva pizza napoletana,pizza napoletana,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",4,"Sim, possuem um fotógrafo que vai até o local (vai ir hoje inclusive), que tira fotos, faz vídeos e edita."
+Devolutiva pizza napoletana,pizza napoletana,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,1,"Não tem ninguém específico para a função. Um dos sócios faz, sem planejamento"
+Devolutiva pizza napoletana,pizza napoletana,21,Tem um calendário editorial ou planejamento de conteúdo?,1,"nada, sem planejamento."
+Devolutiva pizza napoletana,pizza napoletana,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,3,Pouco
+Devolutiva pizza napoletana,pizza napoletana,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",5,"Sempre respondem prontamente, interagem"
+Devolutiva pizza napoletana,pizza napoletana,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,4,Usa o canva para editar imagens. A pessoa que ajuda usa o capcut 
+Devolutiva pizza napoletana,pizza napoletana,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,4,Pode melhorar
+Devolutiva pizza napoletana,pizza napoletana,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,3,"Ja trabalharam com 1, mas não deu certo. Não era o público dele (o beliscador). Ja pensaram e fazer com outro, mas era um valor muito elevado. Vão repensar"
+Devolutiva pizza napoletana,pizza napoletana,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",3,Possuem o link do site (cardápio)
+Devolutiva pizza napoletana,pizza napoletana,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",4,"ifood, link com cardapio/site com whatsapp business"
+Devolutiva pizza napoletana,pizza napoletana,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",4,
+Devolutiva pizza napoletana,pizza napoletana,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,https://www.instagram.com/margueritas.pizza/ / https://margueritaspizza.com.br/
+Devolutiva pizza napoletana,pizza napoletana,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,Canva - fotografo usa o capcut
+Devolutiva pizza napoletana,pizza napoletana,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,1,"Utiliza um pouco o chatgpt, mas não para a empresa. Apenas coisas pessoais"
+Devolutiva pizza napoletana,pizza napoletana,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",2,
+Devolutiva pizza napoletana,pizza napoletana,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",1,
+Devolutiva pizza napoletana,pizza napoletana,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,
+Devolutiva pizza napoletana,pizza napoletana,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,
+Devolutiva pizza napoletana,pizza napoletana,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),0,nào usa
+Devolutiva pizza napoletana,pizza napoletana,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,1,
+Devolutiva pizza napoletana,pizza napoletana,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,1,"Possuem os registros dos clientes da tele entrega, mas não utilizam para nada"
+Devolutiva pizza napoletana,pizza napoletana,40,Realiza ações estruturadas de fidelização ou recompra?,1,"Ja estão com o cartão fidelidade pronto, mas não botaram em pratica ainda"
+Devolutiva pizza napoletana,pizza napoletana,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",1,
+Devolutiva pizza napoletana,pizza napoletana,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,3,Pizza de sabor especial de 2 em 2 meses
+Devolutiva pizza napoletana,pizza napoletana,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",3,Apenas ifood
+Devolutiva pizza napoletana,pizza napoletana,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,2,
+Devolutiva pizza napoletana,pizza napoletana,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,3,
+Devolutiva pizza napoletana,pizza napoletana,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,1,
+Devolutiva pizza napoletana,pizza napoletana,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,1,"faziam reuniões antigamente, mas viram que gerava mais discórdia. Acabaram abolindo"
+Devolutiva pizza napoletana,pizza napoletana,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,1,
+Devolutiva pizza napoletana,pizza napoletana,49,Possui plano de carreira estruturado e transparente para os colaboradores?,3,
+Devolutiva pizza napoletana,pizza napoletana,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",2,"POssuem, mas não é vivenciado. Precisam melhorar isso"
+Devolutiva pizza napoletana,pizza napoletana,51,Qual o número total de colaboradores?,0,"3 funcionários fixos, 2 sócios e 1 extra"
+Devolutiva pizza napoletana,pizza napoletana,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",1,não
+Devolutiva pizza napoletana,pizza napoletana,53,Tem controle e ações para redução de perdas e desperdícios?,2,"Pouco desperdício, por isso não controlam tanto. Estoque pequeno"
+Devolutiva pizza napoletana,pizza napoletana,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",5,"SIm, possuem uma linha de produção. Por ser apenas 1 produto, funciona muito bem"
+Devolutiva pizza napoletana,pizza napoletana,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",5,
+Devolutiva pizza napoletana,pizza napoletana,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",5,"Antes era mais, agora é menos. Possuem planinilha pra irem marcando o está faltando o que diminuiu isso compras emergenciais"
+Devolutiva pizza napoletana,pizza napoletana,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,3,"Planilha de temperatura. Planilha de limpeza não tem, mas possuem uma rotina especifica"
+Devolutiva pizza napoletana,pizza napoletana,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,3,"Anual da fermentadora, ar condicionados e motor do balcão refrigerado"
+Devolutiva RUA,RUA,1,A empresa possui controle de entrada e saída de caixa?,3,Controle em planilhas. Mas nem sempre está em dia
+Devolutiva RUA,RUA,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,3,"Sistema não ta abastecido, com isso não gera indicadores, mas poderia gerar"
+Devolutiva RUA,RUA,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,2,"Não sabe bem como funciona. Não sabe analisar os indicadores. Não faz DRE mensal. Foi explicado, mas na consultoria é bom retomar com calma e aplicar ele completo"
+Devolutiva RUA,RUA,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,3,"Possui fichas técnicas, atualiza os valores, mas poderia ser bem melhor. Não conseguem interpretar muito as fichas técnicas. Precisam de auxilio nisso"
+Devolutiva RUA,RUA,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,4,"Possui, mas não estão boas. As formulas estào desatualizadas"
+Devolutiva RUA,RUA,6,Tem controle de estoque com inventário periódico?,1,"Não tem controle. Faz compras mensais, mas é desorganizado e sem controle"
+Devolutiva RUA,RUA,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",1,Não acompanham. Apenas fluxo de caixa
+Devolutiva RUA,RUA,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",3,"custo (cmv) e concorrencia,  ""e seja o que deus quiser"" - tem a percepção que a margem ta muito baixa"
+Devolutiva RUA,RUA,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,3,
+Devolutiva RUA,RUA,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,Consumer
+Devolutiva RUA,RUA,11,A empresa conhece com clareza seu público-alvo/persona?,4,
+Devolutiva RUA,RUA,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,3,Sabe que precisam comunicar melhor. Não deixam bem claro no momento da divulgação e mkt
+Devolutiva RUA,RUA,13,Conhece e analisa periodicamente seus principais concorrentes?,3,"Apenas acompanha pelas redes sociais, analisando preços e etc. Não costuma frequentar o local e fazer uma analise mais profunda"
+Devolutiva RUA,RUA,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,1,
+Devolutiva RUA,RUA,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",3,"Ja trabalharam no início da marca, mas podem trabalhar mais, melhor e de novo"
+Devolutiva RUA,RUA,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",3,"Possuem cardápio de papel impresso, com a identidade do espaço. Sabem que precisam melhorar, mas não cheagaram a fazer algo definitivo pois estavaam esperando a consultoria"
+Devolutiva RUA,RUA,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",2,"Acompanham apenas conforme a vendas e o movimento. Se divulgam um prato específico, conseguem sentir que aquele prato tem mais saída nos próximos dias. Mais no feeling"
+Devolutiva RUA,RUA,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,4,"Sim, bem ativo, com bastante engajamento e seguidores "
+Devolutiva RUA,RUA,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",3,"Publicam diariamente nos stories. No feed poderia ser melhor, apesar de ser ativo, não possuem um cronograma ou planejamento. Falta de tempo"
+Devolutiva RUA,RUA,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,3,Próprio gestor que é responsavel por cuidar das redes
+Devolutiva RUA,RUA,21,Tem um calendário editorial ou planejamento de conteúdo?,1,
+Devolutiva RUA,RUA,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,2,"Até acompanham, mas no geral não aplicam"
+Devolutiva RUA,RUA,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",4,"Sim, sempre respondem o mais rápido possivel, de forma personalizada"
+Devolutiva RUA,RUA,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,1,não
+Devolutiva RUA,RUA,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,4,
+Devolutiva RUA,RUA,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,4,"SIm, ja trabalham diversas vezes, e gerou bastante resultado"
+Devolutiva RUA,RUA,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",2,Apenas link do cardápio
+Devolutiva RUA,RUA,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",4,
+Devolutiva RUA,RUA,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",4,
+Devolutiva RUA,RUA,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,https://www.instagram.com/rua_poa/
+Devolutiva RUA,RUA,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,canva e capcut básico
+Devolutiva RUA,RUA,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,1,
+Devolutiva RUA,RUA,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",1,"Baixaram o chatGPT e estão começando a usar, mas ainda nada para a empresa. Apenas se familiarizando"
+Devolutiva RUA,RUA,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",1,não sente nessecidade...
+Devolutiva RUA,RUA,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,
+Devolutiva RUA,RUA,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,
+Devolutiva RUA,RUA,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),1,
+Devolutiva RUA,RUA,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,1,não
+Devolutiva RUA,RUA,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,2,"ja usaram, possuem dos clientes da tele entrega, mas atualmente não usam"
+Devolutiva RUA,RUA,40,Realiza ações estruturadas de fidelização ou recompra?,4,fidelidade e cashback
+Devolutiva RUA,RUA,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",3,"Fazem treinamento quando o funcionário entra na empresa, mas tudo informal, apenas verbalmente. Não possuem nada registrado"
+Devolutiva RUA,RUA,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,1,
+Devolutiva RUA,RUA,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",1,
+Devolutiva RUA,RUA,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,2,"Apenas verbalmente, nada formalizado"
+Devolutiva RUA,RUA,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,1,
+Devolutiva RUA,RUA,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,2,"Sim, os 10% sempre vai para o funcionário"
+Devolutiva RUA,RUA,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,1,
+Devolutiva RUA,RUA,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,1,Não e gostaria muito de fazer
+Devolutiva RUA,RUA,49,Possui plano de carreira estruturado e transparente para os colaboradores?,3,
+Devolutiva RUA,RUA,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",1,Não e precisam melhorar isso
+Devolutiva RUA,RUA,51,Qual o número total de colaboradores?,0,"2 sócios, 2 atendentes 1 aux cozinha, 1 moto boy (terceirizado) - atualmente"
+Devolutiva RUA,RUA,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",1,
+Devolutiva RUA,RUA,53,Tem controle e ações para redução de perdas e desperdícios?,1,"Possuem muito desperdicio, mas não sabem como ajeitar. Precisam de ajuda"
+Devolutiva RUA,RUA,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",1,"""Layout horrivel"" - palavras do gestor. Cozinha pequea e desorganizada"
+Devolutiva RUA,RUA,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",3,"Atendente faz o pedido na mão (papel e caneta) e após isso, passa para o sistema que sai diretamente na cozinha"
+Devolutiva RUA,RUA,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",1,Diariamente
+Devolutiva RUA,RUA,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,1,Não possuem e não sabem o que precisam
+Devolutiva RUA,RUA,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,1,"Não sabem nada, costuma estragar e acaba gerando um ""caos"" "
+Devolutiva_Tartoni,Tartoni,1,A empresa possui controle de entrada e saída de caixa?,4,Sim. Controle é feito por planilhas e extrações do sistema Vitibar​Bourbon Shopping Country
+Devolutiva_Tartoni,Tartoni,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,4,"Utilizam o sistema Bitbar para vendas e extrações financeiras básicas, mas gestão é feita majoritariamente via planilhas"
+Devolutiva_Tartoni,Tartoni,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,5,"Sim. Elaboram DRE mensalmente de forma própria, conciliando planilhas e dados extraídos​"
+Devolutiva_Tartoni,Tartoni,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,4,"Sim. CMC controlado mensalmente, meta em torno de 27%, mantendo normalmente entre 28%-30%​"
+Devolutiva_Tartoni,Tartoni,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,4,"Sim. Possuem fichas técnicas, mas reconhecem que a equipe recorre a elas apenas pontualmente​"
+Devolutiva_Tartoni,Tartoni,6,Tem controle de estoque com inventário periódico?,4,Inventário é feito manualmente no início do mês e controle de estoque é por contagem física e percepção​
+Devolutiva_Tartoni,Tartoni,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",4,"Acompanham ticket médio, faturamento, CMV, mas não analisam de forma estratégica a margem de contribuição​
+margem - calcula, mas não monitora - fica em 46, 47% - precisa olhar com maior detalhamento - em torno de 95,00 o ticket médio (mas não tem ação em cima)"
+Devolutiva_Tartoni,Tartoni,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",3,Tem alguma coisa que não está tão certa - trabalho com markup de 4 e analisa mercado.Trabalham com markup 4x para alimentos e revisão de mercado para bebidas​
+Devolutiva_Tartoni,Tartoni,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,3,"conta garantida de 41k e 2 pronampes - 7k e segundo, que começa em seguida - em teoria, em torno de 4000"
+Devolutiva_Tartoni,Tartoni,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,Bitbar
+Devolutiva_Tartoni,Tartoni,11,A empresa conhece com clareza seu público-alvo/persona?,4,Sim. Público principal de 50+ anos​
+Devolutiva_Tartoni,Tartoni,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,4,Sim. Restaurante italiano tradicional com proposta de cozinha artesanal​
+Devolutiva_Tartoni,Tartoni,13,Conhece e analisa periodicamente seus principais concorrentes?,3,"Conhecem os concorrentes, mas não fazem acompanhamento formal de mercado"
+Devolutiva_Tartoni,Tartoni,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,1,Não participam ativamente de eventos externos​ - tem muita dificuldade de sair daqui de dentro com a equipe.
+Devolutiva_Tartoni,Tartoni,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",2,"Não implementado ainda, mas têm desejo de contar a história da família e da fundadora​"
+Devolutiva_Tartoni,Tartoni,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",4,cardápio está sendo remodelado e embalagem é personalizada - tem as duas lojas do ifood no mesmo lugar - perdeu raio e eficiencia
+Devolutiva_Tartoni,Tartoni,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",2,"Não avaliam formalmente. A agência envia relatórios por e-mail, mas sem análise estratégica​"
+Devolutiva_Tartoni,Tartoni,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,3,no instagram e no facebook
+Devolutiva_Tartoni,Tartoni,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",3,"Produzem posts e stories com apoio da agência, mas sem planejamento estratégico de conteúdo viral​"
+Devolutiva_Tartoni,Tartoni,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,4,"O marketing é gerenciado por terceiros (amigo + agência Aldeia) sem atuação estratégica clara​.
+2500 reais pra gestão de mkt - fazer interçao com a agência de publicidade junto com gerente - empresa aldeia é quem faz as redes sociais - 1800,00 (site, instagram e facebook, google meu negócio"
+Devolutiva_Tartoni,Tartoni,21,Tem um calendário editorial ou planejamento de conteúdo?,3,existe um planejamento mensal feito por essa agência que dá suporte
+Devolutiva_Tartoni,Tartoni,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,3,fazem algumas coisas
+Devolutiva_Tartoni,Tartoni,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",2,"agencia não faz, fernanda eventualmente responde"
+Devolutiva_Tartoni,Tartoni,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,3,Dependem da agência para produção de material visual
+Devolutiva_Tartoni,Tartoni,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,3,"Sim. Realizam tráfego pago pontual via agência - impulsionam no meta - cerca de 700,00"
+Devolutiva_Tartoni,Tartoni,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,3,"já chamaram, mas pontualmente - ju palma, poa em dobro, sofias por aí."
+Devolutiva_Tartoni,Tartoni,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",5,"Sim. Links na bio do Instagram, direcionando para cardápio e contato"
+Devolutiva_Tartoni,Tartoni,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",0,Delivery ocorre apenas via iFood; gestão própria de delivery não foi estruturada​
+Devolutiva_Tartoni,Tartoni,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",0,Não acompanham métricas de redes sociais diretamente; dependem de relatórios da agência
+Devolutiva_Tartoni,Tartoni,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,"Instagram, facebook"
+Devolutiva_Tartoni,Tartoni,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,Não utilizam ferramentas internas; dependem da agência
+Devolutiva_Tartoni,Tartoni,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,1,Não utiliza para o Tartoni
+Devolutiva_Tartoni,Tartoni,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",1,não
+Devolutiva_Tartoni,Tartoni,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",1,não
+Devolutiva_Tartoni,Tartoni,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,não
+Devolutiva_Tartoni,Tartoni,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,não
+Devolutiva_Tartoni,Tartoni,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),0,não
+Devolutiva_Tartoni,Tartoni,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,3,"as vezes mandam um e-mail mkt e lista de transmissão para evento de jantar harmonizado, mas não se usa com periodicidade"
+Devolutiva_Tartoni,Tartoni,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,3,"tem cadastro de clientes, mas não é utilizado"
+Devolutiva_Tartoni,Tartoni,40,Realiza ações estruturadas de fidelização ou recompra?,1,"Já tiveram programa de fidelidade, com um aplicativo. Mas eram sempre os mesmos clientes. "
+Devolutiva_Tartoni,Tartoni,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",4,"Atendimento padronizado, com treinamento. 2 dos 5 garçons trabalham há 20 e 10 anos"
+Devolutiva_Tartoni,Tartoni,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,3,Não existe de forma estratégica. Trabalham promoções como Festival de Massas no inverno​
+Devolutiva_Tartoni,Tartoni,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",3,estão no poa em dobro hoje
+Devolutiva_Tartoni,Tartoni,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,4,"Sim, cada profissional sabe das suas funções - se tem um documento, com descrição de cargos"
+Devolutiva_Tartoni,Tartoni,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,3,"Treinamentos são realizados internamente, focados principalmente em boas práticas e atendimento​, mas não de forma recorrente."
+Devolutiva_Tartoni,Tartoni,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,4,CMV e meta por garçom - se o garçom vender x reais - paga mesmo se não lucro - e tem uma meta global baseada em lucratividade - tem negociação de aluguel até maio - possui fluxo onde confere as conciliações bancárias 220 mil de salão + tele + 10%
+Devolutiva_Tartoni,Tartoni,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,4," Sim. Realizam reuniões mensais com as equipes - com os lideres, faz todas as terças-feiras."
+Devolutiva_Tartoni,Tartoni,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,4,consultor já fez duas pesquisas em cima disso e tomaram ações.
+Devolutiva_Tartoni,Tartoni,49,Possui plano de carreira estruturado e transparente para os colaboradores?,1,"não, estão pensando em fazer"
+Devolutiva_Tartoni,Tartoni,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",3,"Cultura é vivida no dia a dia (valores como bom atendimento e qualidade), mas missão, visão e valores não estão formalizados​
+"
+Devolutiva_Tartoni,Tartoni,51,Qual o número total de colaboradores?,0,Aproximadamente 40 colaboradores​Bourbon Shopping Country
+Devolutiva_Tartoni,Tartoni,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",3,"tem, mas não usa"
+Devolutiva_Tartoni,Tartoni,53,Tem controle e ações para redução de perdas e desperdícios?,3,"Todo desperdício é anotado em um caderno, mas não faz muita coisa em cima disso."
+Devolutiva_Tartoni,Tartoni,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",4,Layout da cozinha é adequado para o modelo de operação​
+Devolutiva_Tartoni,Tartoni,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",3,Gestão de pedidos
+Devolutiva_Tartoni,Tartoni,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",5,"não é recorrente - só falta se der um movimento inesperado - fazem compras semanais. aLGUNS ITENS COMPRAM EM VOLUME MAIOR, aí não é semanal. "
+Devolutiva_Tartoni,Tartoni,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,4,Consultora que vem duas vezes por mês e tem os controles
+Devolutiva_Tartoni,Tartoni,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,3,Tem trabalhado com ações corretivas - preventiva é só o que shopping obriga.
+Diagnóstico_Boom,Boom,1,A empresa possui controle de entrada e saída de caixa?,3,"na pandemia, usaram todo o fluxo de caixa. Foram abrindo as lojas, que foram comendo o fluxo. Entrou investidor, ajustaram o fluxo, aí entrou a enchente. Hoje, giovanna adianta recebiveis pra pagar as contas - caiu o faturamento. a da goethe fica uns 12k negativo e a trend cobre. Estão com o acompanhamento da Necta.  David acha que giovanna faz pela totvs. 
+Sim, existe controle, mas com falhas de análise estratégica. Precisa ser profissionalizado."
+Diagnóstico_Boom,Boom,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,3,Totvs  - tentam alimentar o sistema com todas as infos - principalmente para registro financeiro e CMV.
+Diagnóstico_Boom,Boom,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,4,"Possui DRE mensal, mas precisa melhorar a análise crítica sobre os números."
+Diagnóstico_Boom,Boom,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,5,"sim, AVALIAM MENSALMENTE O cmv. Possuem fichas técnicas- fazem reuniões semanais com líderes e a cada 15 dias reunião com todos juntos e batem bastante na questão de cmv."
+Diagnóstico_Boom,Boom,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,5,"Sim. Fichas técnicas foram desenvolvidas com apoio da Intelecta, estão impressas nas lojas."
+Diagnóstico_Boom,Boom,6,Tem controle de estoque com inventário periódico?,2,"controle de estoque é ruim - possuem uma planilha de controle de estoque  que, em teoria, o pessoal alimenta (mas não se sabe se está correto) - criar mecanismo mais fácil de entender pra seguir o modelo."
+Diagnóstico_Boom,Boom,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",4,"sim, monitoram esses indicadores. - pode melhorar a análise dos dados."
+Diagnóstico_Boom,Boom,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",3,"aplicam markup em cima dos custos, estão fazendo alguns reajustes, em função do cmv ter subido. 
+Revisam precificação com base em ficha técnica e aumentam preços conforme necessário."
+Diagnóstico_Boom,Boom,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,3,possuem dois pronampes - tudo ok em relação ao planejamento.
+Diagnóstico_Boom,Boom,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,Totvs
+Diagnóstico_Boom,Boom,11,A empresa conhece com clareza seu público-alvo/persona?,4,"acreditam que sim - já fizeram algumas pesquisas antes - mulheres 70%, 25 a 44 anos, classe média alta."
+Diagnóstico_Boom,Boom,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,3," Existe proposta de valor (alimentação saudável, bem-estar), mas não está sendo bem comunicada. Reconhecem que o posicionamento hoje gera confusão."
+Diagnóstico_Boom,Boom,13,Conhece e analisa periodicamente seus principais concorrentes?,4,"Sim. Identificam concorrentes diretos (Balanceado, Saúde no Copo, Ressucos) e reconhecem concorrência indireta (bufês tradicionais)."
+Diagnóstico_Boom,Boom,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,4,"fizeram alguns eventos - feira de turismo no barra (colocaram carrinhos de açaí), shopping canoas, não é algo frequente. Internamente, estão fazendo evento. Aula de pilates na orla, nutri falando sobre algm assunto, caminhada orientada na goethe."
+Diagnóstico_Boom,Boom,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",3,"Trabalham parcialmente. Existe uma história e DNA forte, mas admitem que não conseguem transmitir bem o storytelling atualmente nas redes sociais."
+Diagnóstico_Boom,Boom,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",3,"Sim. Possuem identidade visual nas embalagens (ex.: açaí takeaway, caixas diferenciadas), ficha técnica impressa nas lojas. Porém, precisa melhorar - cardápio e embalagens - david acredita na embalagem personalizada."
+Diagnóstico_Boom,Boom,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",3,"Não formalmente. Impulsionam posts, mas não fazem acompanhamento estruturado de resultados."
+Diagnóstico_Boom,Boom,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,4,"Sim, especialmente Instagram e WhatsApp, mas admitem que a atuação não é estratégica e precisa de ajustes. Site foi roubado, google meu negócio não é fomentado."
+Diagnóstico_Boom,Boom,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",3,"3 posts/feed, stories 1, vídeos são poucos - impulsionam em torno de 400 reais no meta. Falta diversificação (principalmente vídeos e trends).
+
+"
+Diagnóstico_Boom,Boom,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,4,"Tem um profissional responsável pelo mkt e a carol que vai fazer parte de eventos - instagram (site foi roubado), google meu negócio não é fomentado.
+
+Sim. O responsável atual é o Leandro, mas com foco limitado. Estão tentando unir marketing digital, tráfego pago e eventos em um projeto mais profissionalizado."
+Diagnóstico_Boom,Boom,21,Tem um calendário editorial ou planejamento de conteúdo?,3,"existe um planejamento - é feito para 1 ou 2 meses, mas tem uma dificuldade de execução"
+Diagnóstico_Boom,Boom,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,2,"Não. Reconhecem que não utilizam trends, especialmente no TikTok. Existe o desejo de começar a trabalhar melhor isso (ex.: vídeos de pôr do sol, receitas simples).
+
+agencia não estratégica"
+Diagnóstico_Boom,Boom,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",3,David responde interações. Interagem de forma limitada; pretendem melhorar.
+Diagnóstico_Boom,Boom,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,3,Apenas o profissional responsável
+Diagnóstico_Boom,Boom,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,3,"Sim, mas muito baixo (R$300-400/mês, feito diretamente no Instagram). Há planos de profissionalizar o tráfego pago com campanhas segmentadas."
+Diagnóstico_Boom,Boom,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,3,"Sim, em início de estruturação. Estão negociando com a influenciadora Carol Martins e já fizeram ações pontuais (ex.: Devi Kombucha)."
+Diagnóstico_Boom,Boom,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",5,Sim. Utilizam Anotaí para disponibilizar link de cardápio e WhatsApp na bio.
+Diagnóstico_Boom,Boom,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",4,"Têm canais ativos (delivery próprio e Anotaí), mas a gestão é limitada. Pretendem reestruturar o site (que foi hackeado) para integração mais robusta.
+pensar em material grafico para comunicar esse take away"
+Diagnóstico_Boom,Boom,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",2,Não. Não realizam análise estruturada de métricas de redes sociais.
+Diagnóstico_Boom,Boom,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,Instagram
+Diagnóstico_Boom,Boom,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,
+Diagnóstico_Boom,Boom,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,2,"Uso muito pontual do ChatGPT, sem estratégia aplicada no marketing ou operação."
+Diagnóstico_Boom,Boom,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",3,"Usa ocasionalmente o ChatGPT para ideias gerais e textos simples, mas não de forma contínua ou estruturada."
+Diagnóstico_Boom,Boom,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",1,Não aplicam IA para produção de conteúdo oficial da marca.
+Diagnóstico_Boom,Boom,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,"
+Não. Nenhuma aplicação de IA para criação visual."
+Diagnóstico_Boom,Boom,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,4,"Sim, utilizam o Anotaí, que funciona como robô de atendimento via WhatsApp."
+Diagnóstico_Boom,Boom,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),0,"Fora o uso esporádico do ChatGPT, nenhuma ferramenta de IA no dia a dia."
+Diagnóstico_Boom,Boom,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,1,"Não. O foco é na retenção e criação de comunidade, não em prospecção ativa."
+Diagnóstico_Boom,Boom,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,2,"Cadastro pelo Anotaí existe, mas CRM estruturado ainda não foi implementado.
+começaram a fazer alguma coisa de ação de crm."
+Diagnóstico_Boom,Boom,40,Realiza ações estruturadas de fidelização ou recompra?,3,"possuem  fidelidade do totvs  - plano com cadastro para cashback, mas o pessoal não oferece.
+Iniciaram ações de fidelização, como cupons para inativos, eventos com Nutri, criação de grupo de comunidade no WhatsApp."
+Diagnóstico_Boom,Boom,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",3,"Não há padronização completa. Existem rotinas de integração e reuniões com líderes, mas os processos ainda são muito dependentes da prática informal."
+Diagnóstico_Boom,Boom,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,1,"não fazem ações promocionais, não faz parte da cultura da empresa, mas sentem que agora é necessário criar"
+Diagnóstico_Boom,Boom,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",3,poa em dobro
+Diagnóstico_Boom,Boom,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,2,"tinham um doc, mas se perdeu. Hoje, pelo turnover, as funções não estão de acordo - supervisora está na cozinha, ajuda nas comprar, aixa faz suco, etc"
+Diagnóstico_Boom,Boom,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,1,"não - querem implementar
+Fazem reuniões com líderes quinzenalmente"
+Diagnóstico_Boom,Boom,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,4,possuem plano de metas de vendas e cmv - fazem uns 3 meses que não batem meta
+Diagnóstico_Boom,Boom,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,4,"fazem quinzenal com todos os lideres,semanal individual com lideres e eventualmente com todo grupo - na orla, david faz com todo grupo"
+Diagnóstico_Boom,Boom,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,4,"possuem uma colaboradora estagiária - criaram um perfil de colaborador e ela visita opr semana um loja, conversa com os colaboradores e aplcia teste de perfil - contrata, faz entrevista e manda pra teste e eventualmente aplica pesquisa de clima"
+Diagnóstico_Boom,Boom,49,Possui plano de carreira estruturado e transparente para os colaboradores?,3,"Até tem, mas a empresa precisa crescer para os colaboradores cresceram.
+Não existe ainda. Estão começando a trabalhar perfis de cargo e intenção de desenvolvimento interno."
+Diagnóstico_Boom,Boom,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",3,"criaram numa epoca um treinamento com guia de cultura - jeito boom de ser
+A cultura existe no dia a dia, mas não foi formalizada oficialmente."
+Diagnóstico_Boom,Boom,51,Qual o número total de colaboradores?,0,"trend - 4, goethe -3, germania 4, orla 5, carol mkt 1; leandro rede social 1, 2 gestores, estagiária de rh 1"
+Diagnóstico_Boom,Boom,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",5,"possuem manual de boas práticas, pops - feito com a intelecta - 1 vez por mes passa em todas as lojas. - tem um bom controle geral de demandas.Trabalham com apoio da Intelecta para elaboração de manuais, POPs e procedimentos, principalmente ligados a higiene e segurança alimentar."
+Diagnóstico_Boom,Boom,53,Tem controle e ações para redução de perdas e desperdícios?,4,"precisam anotar em planilha o controle do desperdício.
+mplementam ações de redução como produção em volumes menores e melhoria de estoque."
+Diagnóstico_Boom,Boom,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",3,"Hoje não - as lojas foram criadas para ter um fluxo de entrada e saída. Mas, na prática, não funciona tão bem. - poderiam ser mais segmentadas"
+Diagnóstico_Boom,Boom,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",4,"totvs para gestão de pedidos loja e nota aí para pedidos no whatsaap.
+Utilizam o sistema TOTS principalmente para controle financeiro e CMV. Gestão de estoque e produção ainda é feita parcialmente por planilhas (Drive)."
+Diagnóstico_Boom,Boom,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",3,"muito pouco - na orla, um pouco mais - 3 vezes por mes. No germania, umas 6, 7 vezes por mes."
+Diagnóstico_Boom,Boom,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,4,possuem planilhas de limpezas não rotineiras e tem os fechamentos diários.
+Diagnóstico_Boom,Boom,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,4,estão contratando um profissional que vai passar em cada loja uma vez por mes pra manutenção preventiva.
+Diagnóstico_Mayô,Mayô,1,A empresa possui controle de entrada e saída de caixa?,4,"Sim, Priscila (responsável pelo financeiro)realiza o controle de fluxo de caixa. Priscila mora nos EUA, então todo o trabalho é remoto. obs:  é o unico gestor da empresa - se sente inseguro na tomada de decisão. ex: precisa investir na reforma dos banheiros, da cozinha e em fechar o espaço interno com viidros - tudo é prioridade, mas precisa entender se pode pegar financiamento e o que fazer primeiro. Também divulga o espaço para eventos; tem almoço e janta no final de semana."
+Diagnóstico_Mayô,Mayô,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,4,Sistema de gestão é utilizado apenas para fluxo de caixa - o resto é controlado por planilha.
+Diagnóstico_Mayô,Mayô,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,4,"Priscila faz o demonstrativo de resultado completo (por fluxo de caixa), mas não é analisado pelo Guilherme."
+Diagnóstico_Mayô,Mayô,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,4,"Sim, possui CMV, pois está fazendo acompanhamento com a consultoria Intelecta. O CMV é muito bom e, por isso, Guilherme acredita que deveria estar gerando melhores resultados. "
+Diagnóstico_Mayô,Mayô,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,5,"Sim, possui as fichas técnicas organizadas em planilhas."
+Diagnóstico_Mayô,Mayô,6,Tem controle de estoque com inventário periódico?,2,"Não estão fazendo controle de estoque - havia uma pessoa responsável, mas agora é um gargalo - não se sabe. O gestor comentou que vai comecar uma pessoa na equipe, que Guilherme quer treinar como gerente e que pode apoiar no controle de estoque. Também, na semana seguinte inicia um novo chef no restaurante."
+Diagnóstico_Mayô,Mayô,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",4,"Possuem indicadores financeiros levantados, mas não são analisados. O ticket médio é de R$ 113,00."
+Diagnóstico_Mayô,Mayô,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",3,"Sim, está revisando a precificação com o apoio da consultoria especializada."
+Diagnóstico_Mayô,Mayô,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,3,"A empresa possui empréstimos, mas estão controlados."
+Diagnóstico_Mayô,Mayô,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,Lexis
+Diagnóstico_Mayô,Mayô,11,A empresa conhece com clareza seu público-alvo/persona?,3,"Segundo o gestor, não é tão claro - tem um publico 35+ - b+."
+Diagnóstico_Mayô,Mayô,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,3,"Guilherme entende que já mudou bastante a marca, mas ainda tem muita dúvida de como se posicionar - se mantem como está ou se eleva para alta gastronomia, por exemplo."
+Diagnóstico_Mayô,Mayô,13,Conhece e analisa periodicamente seus principais concorrentes?,4,"Guilherme faz análise de concorrência, mas nada expressivo. Aponta o Cawa, que abriu no Cais Embarcadero e também tem Samba aos domingos, como um concorrente importante. "
+Diagnóstico_Mayô,Mayô,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,1,Não costuma participar de eventos.
+Diagnóstico_Mayô,Mayô,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",1,Não
+Diagnóstico_Mayô,Mayô,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",5,"Sim, o material está alinhado à marca."
+Diagnóstico_Mayô,Mayô,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",2,"Gui relata que não recebe relatórios da agência, não avalia retorno das ações nem acompanha desempenho nas redes sociais. Está implementando uma ação com garçons para aumentar as avaliações no Google, mas ainda sem controle estruturado de resultados."
+Diagnóstico_Mayô,Mayô,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,3,"Sim, mantém perfis ativos, mas sem estratégia clara. Os conteúdos são estáticos, repetitivos e pouco engajadores. Gui sente falta de vídeos e do próprio envolvimento como rosto da marca. Está ativo apenas no Instagram, não no tiktok. Indiquei a contratação de um estagiário. "
+Diagnóstico_Mayô,Mayô,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",3,"Não. Gui destaca que o conteúdo é feito pela agência atual, mas sem variedade, sem vídeos, sem aparecer a equipe ou o dono. Disse que antes aparecia mais e isso dava resultado. Quer retomar isso. São postados stories diários, mas sem diferencial."
+Diagnóstico_Mayô,Mayô,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,3,"A agência terceirizada atua na parte de conteúdo, mas não entrega com qualidade nem estratégia. Indiquei a contratação um estagiário de marketing via IEL para ter alguém interno mais presente e responsável.
+
+"
+Diagnóstico_Mayô,Mayô,21,Tem um calendário editorial ou planejamento de conteúdo?,2,"Não há planejamento. Gui relata que as postagens são feitas aleatoriamente, sem aprovação prévia e sem antecipação de datas comemorativas. “Tô louco pra tirar eles.”
+"
+Diagnóstico_Mayô,Mayô,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,1,Não
+Diagnóstico_Mayô,Mayô,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",3,"Gui mesmo responde os comentários e mensagens nas redes sociais, não é a agência. Faz isso com frequência, mas não considera isso escalável."
+Diagnóstico_Mayô,Mayô,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,3,"Não utiliza (possivelmente, a agência usa)"
+Diagnóstico_Mayô,Mayô,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,2,"
+Já fizeram tráfego pago com a agência, mas atualmente não fazem mais. Não há estratégia de impulsionamento ativa."
+Diagnóstico_Mayô,Mayô,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,3,"Já fez parcerias com influenciadores, mas hoje não tem nenhuma ativa. Está contratando a Feedman para fotos e vídeos, mas ainda não é uma estratégia estruturada com influenciadores."
+Diagnóstico_Mayô,Mayô,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",2,Não. O link do cardápio no Instagram está com erro (fica carregando e não abre). Precisa corrigir.
+Diagnóstico_Mayô,Mayô,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",1,"Ainda não há canal de vendas digital ativo. Gui sinaliza que vai implementar delivery, mas não sabe se será via iFood ou próprio. Hoje, todas as vendas são presenciais."
+Diagnóstico_Mayô,Mayô,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",1,"
+Não acompanha métricas. A agência terceirizada não fornece relatórios nem dados. Gui não tem base para analisar resultados nem ajustar estratégias."
+Diagnóstico_Mayô,Mayô,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,instagram
+Diagnóstico_Mayô,Mayô,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,"Não usa (possivelmente a agencia, apenas)"
+Diagnóstico_Mayô,Mayô,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,2,"
+Usa o ChatGPT apenas pontualmente, para escrever algum texto, mas não aplica no marketing da empresa nem tem domínio dos recursos da ferramenta."
+Diagnóstico_Mayô,Mayô,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",2,"Usa o ChatGPT apenas pontualmente, para escrever algum texto, mas não aplica no marketing da empresa nem tem domínio dos recursos da ferramenta."
+Diagnóstico_Mayô,Mayô,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",1,"Não. Não aplica IA em materiais da empresa, apenas pontualmente para uso pessoal."
+Diagnóstico_Mayô,Mayô,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,Não utiliza.
+Diagnóstico_Mayô,Mayô,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,2,"Não possui chatbot. Atendimento é feito via WhatsApp Business, com uma pessoa remota."
+Diagnóstico_Mayô,Mayô,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),0,Chat GPT
+Diagnóstico_Mayô,Mayô,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,1,Não realiza nenhuma prospecção ativa. O fluxo de clientes é 100% orgânico e local.
+Diagnóstico_Mayô,Mayô,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,1,"Não tem CRM. Há um cadastro no sistema, mas não é utilizado. Gui lamenta isso e reforça que gostaria muito de implementar., pois possuem cadastro de cliente."
+Diagnóstico_Mayô,Mayô,40,Realiza ações estruturadas de fidelização ou recompra?,1,"Não realiza. Nenhuma estratégia ativa de pós-venda, fidelização ou remarketing."
+Diagnóstico_Mayô,Mayô,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",2,Não. Cada colaborador tem funções próprias e o processo ainda está em fase de tentativa de organização com apoio da Intelecta.
+Diagnóstico_Mayô,Mayô,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,4,"Sim. Realiza ações como happy hour e promoção de fondue no inverno, mas ainda de forma pouco estruturada e não acompanhada por dados."
+Diagnóstico_Mayô,Mayô,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",2,"Já teve algumas parcerias, como o “POA em dobro” agora, mas não mantém algo contínuo."
+Diagnóstico_Mayô,Mayô,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,3,"Não há formalização. Gui diz que cada colaborador assume uma parte da operação, principalmente agora que estão sem gerente, mas não há papéis definidos em documento ou rotina clara."
+Diagnóstico_Mayô,Mayô,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,1,Não. Nenhum treinamento formal é aplicado. A integração é feita por colegas e não há plano contínuo de capacitação.
+Diagnóstico_Mayô,Mayô,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,4,Sim. Remuneração fixa acima da média + caixinha (~R$1.500/mês) + cartão Caju (R$500). Gui considera que todos ganham bem.
+Diagnóstico_Mayô,Mayô,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,3,"Não. Gui tenta fazer reuniões, mas muitas vezes só conversa brevemente ao assinar contracheques."
+Diagnóstico_Mayô,Mayô,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,1,Nunca aplicou pesquisa de clima. Ficou curioso com o conceito e demonstrou interesse.
+Diagnóstico_Mayô,Mayô,49,Possui plano de carreira estruturado e transparente para os colaboradores?,1,"
+Não possui. Gui gostaria de implementar no futuro."
+Diagnóstico_Mayô,Mayô,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",1,Não existe. Não há definição desses elementos.
+Diagnóstico_Mayô,Mayô,51,Qual o número total de colaboradores?,0,12 com carteira + freelancers
+Diagnóstico_Mayô,Mayô,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",2,": Existe um manual antigo, fora de uso. Será implementado novo treinamento de Boas Práticas com a Intelecta em breve."
+Diagnóstico_Mayô,Mayô,53,Tem controle e ações para redução de perdas e desperdícios?,2,"Ainda não há ações implementadas. Precisa colocar em prática, pois não está sendo controlado."
+Diagnóstico_Mayô,Mayô,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",2,"Não. Coifa está estragada, layout é antigo. Pretende contratar arquiteta com subsídio Sebrae para reestruturação. Pensar em contratação via unio, pra melhorar layout."
+Diagnóstico_Mayô,Mayô,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",2,Sistema é utilizado apenas para atendimento e fluxo de caixa. Não há uso para pedidos ou gestão de produção.
+Diagnóstico_Mayô,Mayô,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",3,"Sim, eventualmente. Gui tenta controlar, mas admite que ocorrem - no máximo 1 vez na semana."
+Diagnóstico_Mayô,Mayô,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,2," Está tentando implementar com apoio da Intelecta, mas ainda não possui.
+
+"
+Diagnóstico_Mayô,Mayô,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,2,"Não possui. Cozinha apresenta falhas (como a coifa), mas não há controle preventivo documentado."
+Diagnóstico_Pueblo,Pueblo,1,A empresa possui controle de entrada e saída de caixa?,4,"Possuem sistema Bit Bar, mas utiliza o fluxo por planilha"
+Diagnóstico_Pueblo,Pueblo,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,5,bitbar
+Diagnóstico_Pueblo,Pueblo,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,5,"fecha o DRE todos os meses, desmembrando todos os indicadores"
+Diagnóstico_Pueblo,Pueblo,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,5,monitora semanalmente o CMV - tudo que faturou x tudo que pagou para fornecedor  - média de 33 a 35%.
+Diagnóstico_Pueblo,Pueblo,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,5,tem em planilhas e no sistema - acha que não estão bem agtualizadas
+Diagnóstico_Pueblo,Pueblo,6,Tem controle de estoque com inventário periódico?,5,Eduardo controla o estoque - monitora toda segunda
+Diagnóstico_Pueblo,Pueblo,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",5,"faturamento, custos fixos e variáveis, rh, curva abc dos mais caros - ticket médio aproximadamente 90,00 / tele - 120,00
+Metas de faturamento estão sendo trabalhadas:
+
+Jazz: Meta de R$80K/mês até o final.
+
+Delivery: atual entre R$250K–300K/mês, 60% delivery"
+Diagnóstico_Pueblo,Pueblo,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",4,atualizam preco em média duas vezes por ano - avaliam custos e mercado
+Diagnóstico_Pueblo,Pueblo,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,3,"tem pronampe da enchente, que começam a pagar no ano que vem."
+Diagnóstico_Pueblo,Pueblo,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,"bitbar, planilhas"
+Diagnóstico_Pueblo,Pueblo,11,A empresa conhece com clareza seu público-alvo/persona?,4,"30+, com filhos, geração que começou desde o início - publico envelheceu um pouquinho - conseguiu renovar o pueblo quando estavam no complex"
+Diagnóstico_Pueblo,Pueblo,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,5,"produto é muito bom, são elogiados pela qualidade de produto - produto não tem conservante, tortilha fazem aqui. Mexicano low profile - reforçam nas redes
+ Sim. Estão se posicionando também como espaço cultural e gastronômico (com curadoria de eventos e shows"
+Diagnóstico_Pueblo,Pueblo,13,Conhece e analisa periodicamente seus principais concorrentes?,4,"pesquisam preço de mercado - eduardo faz com frequência - no delivery, guacamole, chica maria, oux, paparico; restaurante: tangamandápio"
+Diagnóstico_Pueblo,Pueblo,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,3,"tiveram um dos primeiros foodtrucks de porto alegre, começaram esse movimento, começaram o vila roubadinhas. Venderam na pandemia
+Agora iniciando eventos próprios (shows de jazz)"
+Diagnóstico_Pueblo,Pueblo,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",3,"poderia ser um pouco mais - eduardo não cuida tanto dessa parte. Cuidam mais das cores, layout, tipo de foto, estética."
+Diagnóstico_Pueblo,Pueblo,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",5,"Sim, basicamente não muda o layout"
+Diagnóstico_Pueblo,Pueblo,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",3,"As gurias responsáveis pelas redes sociais respondem aos clientes e pedem informações internas quando necessário, mas não há monitoramento estratégico de resultados.
+Metas estabelecidas como voltar ao 4,9 no iFood, além de análise de avaliações"
+Diagnóstico_Pueblo,Pueblo,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,4,"Instagram ativo, mantido pelas responsáveis externas​"
+Diagnóstico_Pueblo,Pueblo,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",5,"2 ou 3 por semana, captam quinzenalmente, passam o briefing"
+Diagnóstico_Pueblo,Pueblo,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,0,"recentemente, trocaram de agência que tem foco em gastronomia. A Aline que cuida mais disso. agencia vem a cada 15 dias para captação de conteúdo e estão estudando trafego."
+Diagnóstico_Pueblo,Pueblo,21,Tem um calendário editorial ou planejamento de conteúdo?,4,"sim, possuem um planejamento de conteúdo programado e validado quinzenalmente"
+Diagnóstico_Pueblo,Pueblo,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,3,Eduardo acredita que as gurias trazem referências do que é trend
+Diagnóstico_Pueblo,Pueblo,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",4,a agencia normalmente responde
+Diagnóstico_Pueblo,Pueblo,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,3,apenas a agência
+Diagnóstico_Pueblo,Pueblo,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,3,"Estão programando o início do trafego, tanto no pueblo quanto na operação da nova pizzaria delivery"
+Diagnóstico_Pueblo,Pueblo,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,3,"fizeram algumas parcerias, por pedido dos influenciadores - 50 a 100 por semana de trafego"
+Diagnóstico_Pueblo,Pueblo,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",5,"Sim, usam o robo para o Anotaaí"
+Diagnóstico_Pueblo,Pueblo,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",5,"Ifood é exclusivo e próprio no anotaaí - 90% Ifood
+Sim. Trabalham delivery próprio e fazem cerca de 3.000 entregas"
+Diagnóstico_Pueblo,Pueblo,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",4,metricas com a Aline
+Diagnóstico_Pueblo,Pueblo,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,instagram
+Diagnóstico_Pueblo,Pueblo,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,não usam
+Diagnóstico_Pueblo,Pueblo,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,1,Não utilizam nenhuma ferramenta específica
+Diagnóstico_Pueblo,Pueblo,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",3,usou chat como referência pra criar a marca da pizzaria - ajudou no slogan e tudo mais
+Diagnóstico_Pueblo,Pueblo,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",1,não
+Diagnóstico_Pueblo,Pueblo,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,não
+Diagnóstico_Pueblo,Pueblo,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,5,O robo do anoaí é IA
+Diagnóstico_Pueblo,Pueblo,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),0,
+Diagnóstico_Pueblo,Pueblo,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,3,"NÃO, ativa não - estão transformando pueblo em um espaço mais cultural, então estão fazendo movimentos nesse sentido"
+Diagnóstico_Pueblo,Pueblo,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,2,"tem um CRM guaraddo, não usaram mais - nada ativo"
+Diagnóstico_Pueblo,Pueblo,40,Realiza ações estruturadas de fidelização ou recompra?,4,"tem no delivery - a cada 10, ganha algo. Cupons de pedidos para recompra."
+Diagnóstico_Pueblo,Pueblo,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",3,"mais ou menos - já foi bem mais, equipe de garçom é antiga. Não tem metas mais"
+Diagnóstico_Pueblo,Pueblo,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,4,"A empresa está começando a implementar ações sazonais, principalmente com shows de jazz durante a semana (terças e quartas), justamente para aumentar o movimento nos dias mais fracos."
+Diagnóstico_Pueblo,Pueblo,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",1,NÃO
+Diagnóstico_Pueblo,Pueblo,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,3,"Eles possuem um manual da cultura da empresa, com regras, funções e princípios definidos, mas reconhecem que hoje não estão usando esse material como deveriam."
+Diagnóstico_Pueblo,Pueblo,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,3,"faz treinamento, mas hoje a rotatividade é baixa - 14 funcionários, nenhum com menos de 2 anos."
+Diagnóstico_Pueblo,Pueblo,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,5,"possuem o pagamento de 10% semanal para os garçons - comissão variável - pagam para todo mundo, com percentuais diferentes"
+Diagnóstico_Pueblo,Pueblo,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,4,fazerm reuniões toda a semana com os gerentes e com todosos funcionários a cada 6 meses
+Diagnóstico_Pueblo,Pueblo,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,3,"já fizeram, mas há muito tempo atras - já fizeram cliente oculto há um tempo atras, eduardo disse que valeu muito a pena - ele vai falar com a fran sobre"
+Diagnóstico_Pueblo,Pueblo,49,Possui plano de carreira estruturado e transparente para os colaboradores?,3,estão começando a estruturar um plano de carreira.
+Diagnóstico_Pueblo,Pueblo,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",3,"conseguiram criar uma cultura de boas práticas, etc, então dão toques específicos. Possuem manual da cultura da empresa, mas reconhecem que não estão utilizando plenamente"
+Diagnóstico_Pueblo,Pueblo,51,Qual o número total de colaboradores?,3,"faz treinamento, mas hoje a rotatividade é baixa - 14 funcionários, nenhum com menos de 2 anos."
+Diagnóstico_Pueblo,Pueblo,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",4,"possuem manual de boas práticas, POP, não sabe se está tão atualizado. Tiveram nutri na casa por muitos anos. Tem tudo manualizado, entrega de EPI. Não sabe se está sendo utilizado."
+Diagnóstico_Pueblo,Pueblo,53,Tem controle e ações para redução de perdas e desperdícios?,4,"tem controle de produção - tinha um controle mais aprofundado no buffet. Hoje, tem controle de perdas na produção - tudo porcionado, etc - controlado por palnilha"
+Diagnóstico_Pueblo,Pueblo,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",5,funciona muito - atende 3k de delivery e produção
+Diagnóstico_Pueblo,Pueblo,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",5,sistema anota aí para gestão de pedidos - o resto planilha
+Diagnóstico_Pueblo,Pueblo,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",4,"hoje, raramente - volume é fácil de controlar - difícil ter que comprar alguma coisa - faz atacado uma vez por semana."
+Diagnóstico_Pueblo,Pueblo,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,5,tudo isso tem - tem controle em palnilha. tem uma menina só de limpeza
+Diagnóstico_Pueblo,Pueblo,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,3,"hoje, acontecem apenas manutenção corretiva. Tinha-se preventiva, mas não tem muito equipamento que estraga. Manuentação preventiva do ar."
+Fornellone,Fornellone,1,A empresa possui controle de entrada e saída de caixa?,4,"usam o sistema Bitbar para lançar tudo, usam planilha de excel para gerrir indicadores"
+Fornellone,Fornellone,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,4,
+Fornellone,Fornellone,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,4,As vezes deixa passar um mês ou outro pq a equipe que faz é pequena
+Fornellone,Fornellone,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,4,0.36
+Fornellone,Fornellone,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,4,tem equipe de Nutris que atualizam com frequencia as listas
+Fornellone,Fornellone,6,Tem controle de estoque com inventário periódico?,4,"fazem inventário semanal para disparar as listas de compras, querem adquirir o sistema Vmarket para otimizar ainda mais esta parte, pois hoje contam com lista e depois precisam atualizar os valores manualmente"
+Fornellone,Fornellone,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",3,acompanha os números mas não tem domínio
+Fornellone,Fornellone,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",3,"analisa o público, vê como o ifood está cobrando e em cima do preço de custo  aplica margem "
+Fornellone,Fornellone,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,5,
+Fornellone,Fornellone,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,bit bar/ VMarket/ Suflex etiquetagem
+Fornellone,Fornellone,11,A empresa conhece com clareza seu público-alvo/persona?,3,"já fez um estudo a muito tempo, mas hoje nao utiliza"
+Fornellone,Fornellone,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,3,"tem um posicionamento por tradição, tempo de mercado e localização, mas isto não é claro e documentado"
+Fornellone,Fornellone,13,Conhece e analisa periodicamente seus principais concorrentes?,3,
+Fornellone,Fornellone,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,3,participam de algumas festas temáticas mas não tiveram retorno
+Fornellone,Fornellone,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",2,Utilizam pouco a parte de Story Telling
+Fornellone,Fornellone,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",3,
+Fornellone,Fornellone,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",3,"investem cerca de R$ 1.000,00 em trafego pago mas não entendem e não percebem retorno"
+Fornellone,Fornellone,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,4,Possuem instagram e agencia que faz as postagens e captura os conteudos
+Fornellone,Fornellone,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",3,Empresa faz capturas
+Fornellone,Fornellone,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,4,possuem agencia de marketing parceira e trafego pago
+Fornellone,Fornellone,21,Tem um calendário editorial ou planejamento de conteúdo?,4,"Agencia fornece o calendário, eles avaliam e liberam para realizar as postagens ao longo do mês"
+Fornellone,Fornellone,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,3,Fazem pouco conteudo viral
+Fornellone,Fornellone,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",2,
+Fornellone,Fornellone,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,4,Agencia que cria
+Fornellone,Fornellone,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,3,Possui Empresa que realiza o tráfego pago
+Fornellone,Fornellone,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,1,não possui influenciadores
+Fornellone,Fornellone,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",5,
+Fornellone,Fornellone,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",4,
+Fornellone,Fornellone,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",3,
+Fornellone,Fornellone,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,Instagram
+Fornellone,Fornellone,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,
+Fornellone,Fornellone,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,2,tudo ainda de forma experimental 
+Fornellone,Fornellone,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",2,tudo ainda de forma experimental 
+Fornellone,Fornellone,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",2,tudo ainda de forma experimental 
+Fornellone,Fornellone,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,2,tudo ainda de forma experimental 
+Fornellone,Fornellone,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,2,tudo ainda de forma experimental 
+Fornellone,Fornellone,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),0,chat GPT
+Fornellone,Fornellone,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,3,fazem duas reuniões mês para vender mais
+Fornellone,Fornellone,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,2,tem cadastro dos clientes no sistema mas não utiliza
+Fornellone,Fornellone,40,Realiza ações estruturadas de fidelização ou recompra?,1,não possuem estratégias ativas de recompra. 
+Fornellone,Fornellone,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",1,
+Fornellone,Fornellone,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,4,usam as datas comemorativas para fazer algumas ações
+Fornellone,Fornellone,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",1,
+Fornellone,Fornellone,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,4,
+Fornellone,Fornellone,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,3,"já fizeram consultorias anteriores com o Polo, onde estrtuturaram a parte de integração e  treinamentos"
+Fornellone,Fornellone,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,1,Ainda estão estudando a melhor forma de fazer
+Fornellone,Fornellone,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,4,Fazem reuniões semanais
+Fornellone,Fornellone,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,1,
+Fornellone,Fornellone,49,Possui plano de carreira estruturado e transparente para os colaboradores?,2,
+Fornellone,Fornellone,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",3,Possui mas não divulga
+Fornellone,Fornellone,51,Qual o número total de colaboradores?,0,24
+Fornellone,Fornellone,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",3,"possui checklist de manutenção e limpeza de equipamentos, livro de receitas, checklist de lavagem dos alimentos. POPS estao sendo refeitos pois perderam os arquivos que tinham"
+Fornellone,Fornellone,53,Tem controle e ações para redução de perdas e desperdícios?,1,
+Fornellone,Fornellone,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",4,Já fizeram alguns estudos para melhoria do Layout e processo
+Fornellone,Fornellone,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",4,"Tem impressoras na cozinha, pizzaria e balcao de bebidas"
+Fornellone,Fornellone,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",5,não fazem
+Fornellone,Fornellone,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,3,Possuem e utilizam com freqeuncia
+Fornellone,Fornellone,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,4,"Tem contrato de manutenção, com inspeções semanais"
+Gambrinus -METRÔ,Gambrinus,1,A empresa possui controle de entrada e saída de caixa?,2,"não tenho controle de fluxo de caixa, tem uma planilha feita pela esposa com foco no contas a pagar e que a partir disso elabora um DRE. "
+Gambrinus -METRÔ,Gambrinus,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,3,"Utiliza sitema principalmente para atendimento e caixa, os demais controles são paralelos através de planilhas."
+Gambrinus -METRÔ,Gambrinus,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,2,"Faz algum tempo que não analisava DRE, depois do ultimo workshop voltou nas planilhas e inclusive verificou que estava calculando de forma equivocada o cmv."
+Gambrinus -METRÔ,Gambrinus,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,2,"Esta revisando a planilha de custos para levantar o cmv, não tem os números precisos no momento. "
+Gambrinus -METRÔ,Gambrinus,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,3,Empreendedor entendi que todas precisam ser revisadas. 
+Gambrinus -METRÔ,Gambrinus,6,Tem controle de estoque com inventário periódico?,1,Não realiza nenhum controle de estoque no momento. 
+Gambrinus -METRÔ,Gambrinus,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",3,"analisa indicadores como: faturamento, despesa geral e cmc, ponto de equilibrio não sabe hoje exatamente qual é. "
+Gambrinus -METRÔ,Gambrinus,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",2,"Sua precificação atual é basicamente analise dos custos de insumos, e alguma coisa de analise de preço da concorrencia. "
+Gambrinus -METRÔ,Gambrinus,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,3,"Existe dividas de emprestimos controladas, e representa um valor estimado de 26mil mensal. "
+Gambrinus -METRÔ,Gambrinus,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,BITBAR 
+Gambrinus -METRÔ,Gambrinus,11,A empresa conhece com clareza seu público-alvo/persona?,3,"Descreve algumas personas, nunca fez um trabalho profissional voltado para esse mapeamento, o que tem construido fez através do chatgpt. "
+Gambrinus -METRÔ,Gambrinus,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,4,"Se posiciona forte em relação a qualidade e tradição, pode explorar mais nos pontos de contato com o cliente.  "
+Gambrinus -METRÔ,Gambrinus,13,Conhece e analisa periodicamente seus principais concorrentes?,4,"Utiliza bastante o ifood para monitorar seus concorrentes, além de analisar os cardapios digitais através das redes. Entendi que a concorrencia aumentou muito no mercado nos ultimos anos, mas entendi que é positivo pois o mercado ganha mais visibilidade.  "
+Gambrinus -METRÔ,Gambrinus,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,4,"Participa há anos do Sebrae, também faz parte do grupo Mastermind, também envolvido no conselho do mercado publico. "
+Gambrinus -METRÔ,Gambrinus,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",3,Entendi que utiliza bastante mas acredita que pode melhorar.  
+Gambrinus -METRÔ,Gambrinus,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",3,"Tem um cardápio muito tradicional alinhado a sua cultura, mas com pouco apelo para despertar desejo principalmente para explorar o cliente turista. "
+Gambrinus -METRÔ,Gambrinus,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",1,"nada programado, mostrei o perfil de insights para ele do instagram durante a reunião, ficou impressionado com o numero de novo seguidores no ultimos mes foram quase 1mil. Falei da importancia de organizar as redes sociais e aprovietar melhor elas principalmente para esses novos seguidores que estão chegando. "
+Gambrinus -METRÔ,Gambrinus,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,4,"Esta ativo no Instagram e Ttiktok faz as postagens com certa frequencia. Tudo feito pelo proprio empreendedor, que inclusive também faz patrocinados através do botão impulsionar. "
+Gambrinus -METRÔ,Gambrinus,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",3,Existe postagens com frequencia mas pouco diversificada a qualidade também pode ser melhorada. 
+Gambrinus -METRÔ,Gambrinus,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,3,O empreendedor é responsável pelos conteudos. 
+Gambrinus -METRÔ,Gambrinus,21,Tem um calendário editorial ou planejamento de conteúdo?,1,
+Gambrinus -METRÔ,Gambrinus,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,2,
+Gambrinus -METRÔ,Gambrinus,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",4,Empreendedor esta atento a todas interações seja no instagram ou no google
+Gambrinus -METRÔ,Gambrinus,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,3,Utiliza capcut para editar seus videos. 
+Gambrinus -METRÔ,Gambrinus,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,3,Investi em tráfego pago através do botão impulsionar feito pelo proprio empreendedor. 
+Gambrinus -METRÔ,Gambrinus,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,4,já testou varios Inlfuencers no seu perfil é possivel ver pelos menos 3 nos ultimos 2 meses. 
+Gambrinus -METRÔ,Gambrinus,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",4,
+Gambrinus -METRÔ,Gambrinus,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",3,"Hoje realiza vendas através do ifood, pelo telefone apenas vendas consultivas. Entendi que poderia explorar mais o whatsapp e telefone através de ligação mesmo. "
+Gambrinus -METRÔ,Gambrinus,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",1,"não acompanha métricas, olhamos juntos na reuniao o seus insights. "
+Gambrinus -METRÔ,Gambrinus,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,"instagram, tik tok e google "
+Gambrinus -METRÔ,Gambrinus,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,capcut 
+Gambrinus -METRÔ,Gambrinus,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,3,Aprendeu a utilizar mais através de um curso que fez. 
+Gambrinus -METRÔ,Gambrinus,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",4,Utiliza chat gpt principalmente para apoio as postagens nas redes sociais 
+Gambrinus -METRÔ,Gambrinus,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",4,
+Gambrinus -METRÔ,Gambrinus,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,4,"Utiliza para criação de arte, e usou para realizar as artes da semana Santa "
+Gambrinus -METRÔ,Gambrinus,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,
+Gambrinus -METRÔ,Gambrinus,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),0,Chatgpt 
+Gambrinus -METRÔ,Gambrinus,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,1,
+Gambrinus -METRÔ,Gambrinus,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,1,não tem 
+Gambrinus -METRÔ,Gambrinus,40,Realiza ações estruturadas de fidelização ou recompra?,1,
+Gambrinus -METRÔ,Gambrinus,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",3,"Empreendedor entendi que é uma oportunidade para ser melhor explorada, realizar curso de vendas mesmo com os garçons. "
+Gambrinus -METRÔ,Gambrinus,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,2,Trabalha com pratos do dia. 
+Gambrinus -METRÔ,Gambrinus,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",1,
+Gambrinus -METRÔ,Gambrinus,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,3,"Tem as atividades definidas descritas, mas entendi que esta desatualizadas.  "
+Gambrinus -METRÔ,Gambrinus,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,2,"Empreendedor entendi que poderia fazer com maior frequencia os treinamentos, principalemnte voltados para atendimento. Hoje faz com pouquissima frequencia.  "
+Gambrinus -METRÔ,Gambrinus,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,1,"Não, hoje o caixinha é distribuido entre todos, não uma remuneração variavel atrelada a desempenho. "
+Gambrinus -METRÔ,Gambrinus,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,3,Realiza reuniões uma vez por mes falando um pouco sobre os aconetcimentos do mês. Exemplo mês de abril Páscoa o que estava sendo planejado etc.  
+Gambrinus -METRÔ,Gambrinus,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,1,
+Gambrinus -METRÔ,Gambrinus,49,Possui plano de carreira estruturado e transparente para os colaboradores?,1,nada estruturado 
+Gambrinus -METRÔ,Gambrinus,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",0,"Empreendedor já desenhou quando fez trabalho de conclusao de curso da faculdade, mas entendi que precisa ser revisitado. "
+Gambrinus -METRÔ,Gambrinus,51,Qual o número total de colaboradores?,0,18
+Gambrinus -METRÔ,Gambrinus,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",4,"Tem implantado, e recentemente recebeu fiscalização e estava tudo ok. "
+Gambrinus -METRÔ,Gambrinus,53,Tem controle e ações para redução de perdas e desperdícios?,2,Não há um controle de desperdicio
+Gambrinus -METRÔ,Gambrinus,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",3,"A cozinha foi muito adaptada ao longo das reformas realizadas, não tem um layout otimizado.  "
+Gambrinus -METRÔ,Gambrinus,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",3,utiliza sistema que para os pedidos que chegam na cozinha. 
+Gambrinus -METRÔ,Gambrinus,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",4,"poucos imprevistos acontecem, empreendedor quem realiza as compras e tem muitos anos de experiencia. "
+Gambrinus -METRÔ,Gambrinus,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,4,"Sim, e foi testada recentemente com a fiscalização. "
+Gambrinus -METRÔ,Gambrinus,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,0,Resgatou a planilha de manutenção principalmente após a enchente e esta controlando melhor atualmente.  
+Povo Alegre,Povo Alegre,1,A empresa possui controle de entrada e saída de caixa?,5,"Utiliza totvs chef tem total controle, e tem uma pessoa no financeiro que organiza as informações  . "
+Povo Alegre,Povo Alegre,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,5,Recentemente encontro a emrpesa que da suporte presencial para a utilização do sistema Totvs chefe e estão usando o sistema completamente. 
+Povo Alegre,Povo Alegre,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,5,"Recentemente conseguiram organizar as informações no sistema, há um mês aproximadamente saiu o primeiro relatório de DRE. "
+Povo Alegre,Povo Alegre,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,4,Utiliza dados do sistema e também tem consultoria de processos contratada que analisa periodicamente. 
+Povo Alegre,Povo Alegre,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,4,O empreendedor acredito que as fichas técnicas precisam passar por novas atualizações.  
+Povo Alegre,Povo Alegre,6,Tem controle de estoque com inventário periódico?,1,"Hoje não há controle de estoque, esta utilizando técnicas informais fazendo controle visual, pretende resolver em breve com a contratação de um novo comprador. "
+Povo Alegre,Povo Alegre,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",5,"Possui todos os indicadores através do dashboard do sistema, inclusive o ticket médio é por hora, pois varia muito entre café da manha e almoço por exemplo. Além disso faz reunioes mensais com seu time estrategico para analise dos numeros e definem metas. "
+Povo Alegre,Povo Alegre,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",4,"No momento esta passando pela estruturação e esta redefinindo os preços, novos preços entram no cardápio no final do mês.  "
+Povo Alegre,Povo Alegre,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,4,"Hoje o restaurante esta com resultado negativo, devido a novos investimentos que estão sendo realizados em uma nova operação que fica ao lado, desta forma, o restaurante atual esta pagando aluguel dobrado, é uma estrategia controlada administrada pelo investidor e o empreendedor.  "
+Povo Alegre,Povo Alegre,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,totvs chef 
+Povo Alegre,Povo Alegre,11,A empresa conhece com clareza seu público-alvo/persona?,3,"Hoje não tem uma persona definida, sugestão: talvez definir varias, pois tem alunos do fleming, trabalhador da região, maes e acompanhantes do hospital e etc.  "
+Povo Alegre,Povo Alegre,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,3,"Tem um posicionamento claro em relação a qualidade da comida e entrega rápida, pratos chegam em minutos na mesa desde o pedido realizado, falta comunicar melhor ao cliente.  "
+Povo Alegre,Povo Alegre,13,Conhece e analisa periodicamente seus principais concorrentes?,3,Esta atento aos concorrentes principalmente mais próximos e todos são buffets.  
+Povo Alegre,Povo Alegre,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,3,"Começou a frequentar o Sebrae recentemente, disse que estava muito inserido em fazer a operação atual funcionar, agora com a abertura do novo restaurante e após a estrutura do time de gestão esta conseguindo participar mais e em breve vai para Sp visitar vários restaurantes junto com o chefe Rafael, conhecido e renomado assina cardapio de restaurantes conhecidos na cidade. "
+Povo Alegre,Povo Alegre,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",1,Não comunica e preferi manter assim. 
+Povo Alegre,Povo Alegre,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",4,"O material do cardápio digital é muito bacana e funciona bem, esta buscando embalagens para o delivery, ainda não vendi por ifood."
+Povo Alegre,Povo Alegre,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",2,"As ações são muito recentes, faz 1 mes  mês que iniciou ainda não avaliou resultado. "
+Povo Alegre,Povo Alegre,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,4,Recentemnete contratou um emrpesa para gerenciar as redes. 
+Povo Alegre,Povo Alegre,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",4,"hoje tem uma produção sendo realizada, não tem uma produção do dia a dia principalmente de stories e acaba sendo a mesma produção feita para o feed realizada pela agencia.  "
+Povo Alegre,Povo Alegre,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,5,Sugestão: um ponto de contato interno com a agencia para produções diárias principalmente para os stories. 
+Povo Alegre,Povo Alegre,21,Tem um calendário editorial ou planejamento de conteúdo?,5,
+Povo Alegre,Povo Alegre,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,4,"é muito recente a contratação da agencia, acredita que ainda não conseguiram chegar nessa parte. "
+Povo Alegre,Povo Alegre,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",4,
+Povo Alegre,Povo Alegre,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,4,O conteudo todo produzido pela agencia e com boa qualidade. 
+Povo Alegre,Povo Alegre,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,4,"Iniciou patrocinado recentemente, ainda não analisou os resultados e se a estrategia alinhada com a agencia foi a mais adequada. "
+Povo Alegre,Povo Alegre,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,1,ainda não 
+Povo Alegre,Povo Alegre,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",4,"Tem linktree, que direciona para cardapio, whatsapp e avaliação no google. "
+Povo Alegre,Povo Alegre,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",3,"Hoje os pedidos são feitos através do whatapp e o clinete precisa ir retirar, não tem sistema de delivery, esta organizando para implantar. "
+Povo Alegre,Povo Alegre,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",1,Hoje não acompanha as métricas em breve vai fazer reunião com a empresa de social midia para analisar.  
+Povo Alegre,Povo Alegre,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,Instagram e google meu negócio 
+Povo Alegre,Povo Alegre,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,"Não utiliza, uma empresa terceira quem realiza os conteudos  "
+Povo Alegre,Povo Alegre,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,1,
+Povo Alegre,Povo Alegre,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",1,
+Povo Alegre,Povo Alegre,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",1,
+Povo Alegre,Povo Alegre,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,
+Povo Alegre,Povo Alegre,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,
+Povo Alegre,Povo Alegre,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),1,
+Povo Alegre,Povo Alegre,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,2,Comunica através de lista de transmissao no whatsapp o prato do dia.  
+Povo Alegre,Povo Alegre,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,3,"Através da implantação do sistema ""zero fila"" começou a fazer cadastro, ainda não utilizou essa base de dados.  "
+Povo Alegre,Povo Alegre,40,Realiza ações estruturadas de fidelização ou recompra?,1,Esta planejando junto com o sistema iniciar o programa de cashback. 
+Povo Alegre,Povo Alegre,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",2,
+Povo Alegre,Povo Alegre,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,3,Hoje trabalha com combos no cardápio e na Páscoa desenvolveu um produto. 
+Povo Alegre,Povo Alegre,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",1,"hoje não tem nenhuma ação especifico, e entendi que o preço é justo sem margem para poder fazer ações.  "
+Povo Alegre,Povo Alegre,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,2,Não tem as funções descritas ainda.  
+Povo Alegre,Povo Alegre,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,2,Nada estruturado
+Povo Alegre,Povo Alegre,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,1,"hoje não, é uma grande potencial "
+Povo Alegre,Povo Alegre,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,4,"Não esta conseguindo fazer os alinhamentos com a equipe tática, hoje realiza reuniões mensais com a equipe de lideranças do restaurante. "
+Povo Alegre,Povo Alegre,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,1,
+Povo Alegre,Povo Alegre,49,Possui plano de carreira estruturado e transparente para os colaboradores?,2,
+Povo Alegre,Povo Alegre,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",2,
+Povo Alegre,Povo Alegre,51,Qual o número total de colaboradores?,0,22 a 25 depende se o quadro esta completo
+Povo Alegre,Povo Alegre,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",4,"Tem alguns manuais desenvolcido principalmente os obrigatórios, mas entendi que precisa revisitar. "
+Povo Alegre,Povo Alegre,53,Tem controle e ações para redução de perdas e desperdícios?,4,tem controle de desperdicios 
+Povo Alegre,Povo Alegre,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",4,Revisou o layout recentemente pela consultoria e na reforma aplicou os layouts sugeridos.  
+Povo Alegre,Povo Alegre,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",4,totvs
+Povo Alegre,Povo Alegre,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",4,"Esta bem mais organziado, e com pouca frequencia tem compras emergencias, hoje quem faz as compras é o proprio empreendedor, esta em processo de entrevistas para contratar um comprador.  "
+Povo Alegre,Povo Alegre,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,4,"As rotinas foram elaboradas pela consultoria, uma analise é realizada esporadicamente pela consultoria. "
+Povo Alegre,Povo Alegre,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,3,não tem um cronograma formal 
+Usina do Pastel -METRÔ,Usina do Pastel,1,A empresa possui controle de entrada e saída de caixa?,4,"Utiliza o sistema bem completo chamado Glow, te m uma pessoa que da suporte financeiro "
+Usina do Pastel -METRÔ,Usina do Pastel,2,Qual o nível de utilização de sistema (ERP/planilhas) para gestão?,5,completo 
+Usina do Pastel -METRÔ,Usina do Pastel,3,Tem DRE (Demonstrativo de Resultado do Exercício) mensal atualizado e utilizado?,5,Sim tem um DRE completo e já me disponibizou para análise. 
+Usina do Pastel -METRÔ,Usina do Pastel,4,Possui CMV (Custo de Mercadoria Vendida) apurado mensalmente com precisão?,5,Possui um cmv muito bom de 28% tudo mensurado por sistema e também porque terceiriza a produção. 
+Usina do Pastel -METRÔ,Usina do Pastel,5,Tem fichas técnicas completas e atualizadas dos produtos/pratos?,5,"Sim, constantemente atualiza o sistema, fica sempre atenta e atualiza o sistema para ter controle."
+Usina do Pastel -METRÔ,Usina do Pastel,6,Tem controle de estoque com inventário periódico?,5,Com frequencia faz controle e verifica sistema x estoque. 
+Usina do Pastel -METRÔ,Usina do Pastel,7,"Possui e acompanha indicadores financeiros definidos (lucro, margem de contribuição, ticket médio, ponto de equilíbrio)?",4,"Acompanha os indicadores tanto no sistema quanto na planilha de DRE, mas não parece claro se toma decisões a partir disso. "
+Usina do Pastel -METRÔ,Usina do Pastel,8,"Trabalha com precificação estruturada (considerando custos, concorrência, valor)?",3,"sim, através de ficha tecnica considera os custose esta atenta aos concorrentes. "
+Usina do Pastel -METRÔ,Usina do Pastel,9,Tem dívidas/empréstimos ativos? Estão controlados e planejados?,1,Tem controle sobre os empréstimos porém é o que esta impactando muito o seu financeiro no momento. Precisa ser verifiacdo se tem algo a ser feito. 
+Usina do Pastel -METRÔ,Usina do Pastel,10,Qual sistema (ERP/planilhas) utiliza? (Nome específico),0,Glow
+Usina do Pastel -METRÔ,Usina do Pastel,11,A empresa conhece com clareza seu público-alvo/persona?,3,"Analisa principalmente os dados do ifood e do instagram, mas não tem a persona detalhada.  "
+Usina do Pastel -METRÔ,Usina do Pastel,12,Possui um posicionamento definido (proposta de valor) e diferenciais competitivos claros e comunicados?,3,"fica claro conforme detalha empreendedor, analisando as redes não parece que esses diferenciais estão claros. "
+Usina do Pastel -METRÔ,Usina do Pastel,13,Conhece e analisa periodicamente seus principais concorrentes?,3,"Relatou alguns concorrentes como: luigi pasteis, casa do harry potter etc que esta sempre atenta ao que eles estão fazendo.  "
+Usina do Pastel -METRÔ,Usina do Pastel,14,Participa de eventos ou ações de visibilidade local/setorial relevantes?,1,
+Usina do Pastel -METRÔ,Usina do Pastel,15,"Trabalha o storytelling da marca (história, propósito, origem) na comunicação?",3,"A historia esta descrita no site, é pouco explorada nas redes. "
+Usina do Pastel -METRÔ,Usina do Pastel,16,"Possui material institucional (cardápio, embalagens) bem apresentado e alinhado à marca?",4,"O materias tem toda identidade muito bem elaborada, as embalagens da venda no local são muito bonitas também. "
+Usina do Pastel -METRÔ,Usina do Pastel,17,"Avalia o retorno das ações de marketing (comentários, avaliações online/offline)?",4,"Após curso ""donos de restaurante"" esta aplicando várias ações comerciais como: ações raspadinha, nomes etc. e acompanha o retorno delas. "
+Usina do Pastel -METRÔ,Usina do Pastel,18,A empresa mantém perfis ativos e estratégicos nas redes sociais relevantes?,4,"o perfil é gerenciado por uma empresa terceirizada, tem estrategias bem interessantes, repeti um pouco as imagens. "
+Usina do Pastel -METRÔ,Usina do Pastel,19,"Há produção frequente e diversificada de conteúdo de qualidade (stories, reels, fotos, vídeos)?",4,
+Usina do Pastel -METRÔ,Usina do Pastel,20,Há um responsável (interno/externo) com expertise gerenciando as redes sociais?,4,
+Usina do Pastel -METRÔ,Usina do Pastel,21,Tem um calendário editorial ou planejamento de conteúdo?,4,valida calendario editorial todo mês com profissional terceirizado que cuida das suas redes. 
+Usina do Pastel -METRÔ,Usina do Pastel,22,Está atento e adapta conteúdos virais/tendências relevantes para a marca?,2,
+Usina do Pastel -METRÔ,Usina do Pastel,23,"Interage com o público (comentários, directs) de forma rápida e personalizada?",4,
+Usina do Pastel -METRÔ,Usina do Pastel,24,Utiliza ferramentas e tem habilidade para edição de imagem e vídeo de qualidade?,4,"A empreendedora não domina, mas 3 todo trabalho. "
+Usina do Pastel -METRÔ,Usina do Pastel,25,Tem estratégia e investimento em impulsionamento/tráfego pago?,4,Através da agencia realiza patrocinado. 
+Usina do Pastel -METRÔ,Usina do Pastel,26,Trabalha com influenciadores ou parceiros digitais de forma estratégica?,4,"Utiliza e através da Crysamorin conseguiu divulgar o seu novo produto a sequencia, o retorno foi imediato.  "
+Usina do Pastel -METRÔ,Usina do Pastel,27,"Oferece links de fácil acesso (bio) para cardápio, contato e pedidos?",5,
+Usina do Pastel -METRÔ,Usina do Pastel,28,"Possui canais de vendas digitais ativos e bem gerenciados (iFood, site, WhatsApp)?",4,"Foca principalmente no ifood, boa parte do seu faturamento vem deste canal. "
+Usina do Pastel -METRÔ,Usina do Pastel,29,"Acompanha e utiliza métricas das redes sociais (alcance, engajamento, conversões) para otimizar?",4,Empreendedora mencionou que fica atenta aos insights do instagram principalmente
+Usina do Pastel -METRÔ,Usina do Pastel,30,Quais perfis ativos a empresa possui? (Listar plataformas),0,Instagram e google 
+Usina do Pastel -METRÔ,Usina do Pastel,31,Quais ferramentas de edição de imagem/vídeo utiliza? (Nomes),0,Hoje é feito por empresa terceirizada
+Usina do Pastel -METRÔ,Usina do Pastel,32,A empresa já utiliza alguma ferramenta de Inteligência Artificial de forma integrada no dia a dia?,3,"Aprendeu a utilizar a ferramenta adapta, quase todos do grupo mister mind responderam isso, pois fizeram um curso juntos"
+Usina do Pastel -METRÔ,Usina do Pastel,33,"Usa ferramentas como ChatGPT/Gemini para criar ideias, conteúdos ou resolver problemas?",3,principalmente chat gpt 
+Usina do Pastel -METRÔ,Usina do Pastel,34,"Usa IA para gerar textos (descrições, posts, cardápios) com revisão humana?",3,
+Usina do Pastel -METRÔ,Usina do Pastel,35,Utiliza IA para criação ou inspiração de imagens/elementos visuais?,1,
+Usina do Pastel -METRÔ,Usina do Pastel,36,Utiliza assistentes virtuais ou chatbots para atendimento ao cliente?,1,
+Usina do Pastel -METRÔ,Usina do Pastel,37,Quais ferramentas de IA utiliza no dia a dia? (Nomes),0,chat gpt e adapta 
+Usina do Pastel -METRÔ,Usina do Pastel,38,Utiliza estratégias ativas e contínuas de prospecção ou vendas?,4,"uma ação offline, raspadinha na entrega do delivery e uma online nomes de pessoas que ganham cupom de desconto instagram.  "
+Usina do Pastel -METRÔ,Usina do Pastel,39,Tem base de clientes organizada (preferencialmente CRM) e utilizada para relacionamento/vendas?,0,Verificar 
+Usina do Pastel -METRÔ,Usina do Pastel,40,Realiza ações estruturadas de fidelização ou recompra?,3,A promoção da raspadinha incentiva a recompra na loja fisica. 
+Usina do Pastel -METRÔ,Usina do Pastel,41,"Tem processos de atendimento e vendas padronizados, conhecidos e seguidos pela equipe?",4,Os processos estõ definidos principalmente para serem replicados nas franquias.
+Usina do Pastel -METRÔ,Usina do Pastel,42,Trabalha com ações promocionais ou sazonalidades de venda de forma planejada e estratégica?,3,"tem ações pontuais, entendo que é aqui que podemos trabalhar, nas ações a partir do maepamento da persona. "
+Usina do Pastel -METRÔ,Usina do Pastel,43,"Faz parcerias estratégicas com canais locais, marketplaces ou distribuidores?",1,
+Usina do Pastel -METRÔ,Usina do Pastel,44,Há definição clara e formalizada de funções e responsabilidades para todos os cargos?,4,descritas e com definição de progresso
+Usina do Pastel -METRÔ,Usina do Pastel,45,Possui treinamentos recorrentes para desenvolver a equipe (técnico/comportamental)?,4,"Sim, pois também tem para os franqueados, toda a organização é feita muito em função de ser replicado nas franquias. "
+Usina do Pastel -METRÔ,Usina do Pastel,46,Os colaboradores possuem remuneração variável atrelada a metas/desempenho?,0,"Possui bonus por meta atingida e por controle de desperdicio, o controle é feito através de inventários semanais. "
+Usina do Pastel -METRÔ,Usina do Pastel,47,Realiza reuniões periódicas eficazes com a equipe para alinhamento e comunicação?,4,Realiza reunioes principalmente mensais para analise dos resultados e metas e alinhamentos para o mês seguinte. 
+Usina do Pastel -METRÔ,Usina do Pastel,48,Realiza pesquisa de clima organizacional e implementa planos de ação?,1,
+Usina do Pastel -METRÔ,Usina do Pastel,49,Possui plano de carreira estruturado e transparente para os colaboradores?,5,Foi todo estruturado por uma consultoria de Rh. 
+Usina do Pastel -METRÔ,Usina do Pastel,50,"Existe uma cultura organizacional clara (Missão, Visão, Valores), disseminada e vivenciada?",2,
+Usina do Pastel -METRÔ,Usina do Pastel,51,Qual o número total de colaboradores?,0,9 pessoas preciso de mais 5
+Usina do Pastel -METRÔ,Usina do Pastel,52,"Possui Manual de Boas Práticas (MBP), POPs exigidos pela VS, atualizados e em uso (com registros)?",5,A profissional Luciana Menegheti realiza visitas quizenais monitorando se todos os pops estao sendo executados e em dia.  
+Usina do Pastel -METRÔ,Usina do Pastel,53,Tem controle e ações para redução de perdas e desperdícios?,5,Realzia controle semanal e bonifica o time por isso. 
+Usina do Pastel -METRÔ,Usina do Pastel,54,"O layout da cozinha/produção permite fluxo adequado (""marcha avante""), evita contaminação cruzada e otimiza processos?",4,
+Usina do Pastel -METRÔ,Usina do Pastel,55,"Utiliza sistema para gestão de pedidos, produção (KDS), atendimento e estoque?",3,
+Usina do Pastel -METRÔ,Usina do Pastel,56,"Ocorrem compras emergenciais? Se sim, com qual frequência?",5,"pelo rigoroso controle de estoque, raramente acontece"
+Usina do Pastel -METRÔ,Usina do Pastel,57,Possui rotinas definidas e registradas (planilhas) de limpeza e segurança alimentar?,5,Empresa terceira implantou todos os processos e verifica a cada 15 dias. 
+Usina do Pastel -METRÔ,Usina do Pastel,58,Possui plano e registros de manutenção preventiva e corretiva dos equipamentos?,3,
